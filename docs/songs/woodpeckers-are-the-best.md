@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Generated and reviewed.
+**Stage:** Generated and reviewed; canonical lyric revision accepted after QA.
 
 **Generation model:** Suno v6-mini
 
@@ -301,7 +301,159 @@ The generated Suno v6-mini version was judged successful because:
 
 ## Lyrics
 
-The final lyric set should be added here when the exact accepted version is available in the repository or conversation context.
+The canonical lyric set below incorporates the post-generation QA revision approved after reviewing the exact Suno lyrics and accepted render.
+
+**Approved revision:** remove the opening spoken lines “Hmm. / Woodpecker.” Keep the woodpecker tap motif, then begin Verse 1 immediately. No other lyric changes were approved.
+
+The accepted Suno v6-mini render predates this opening revision; these lyrics govern future generations.
+
+### [Intro]
+
+*tap... tap-tap-tap*
+
+### [Verse 1]
+
+Some people like the bluebird,  
+Some people like the wren.  
+Some people see a cardinal  
+And want to see it again.
+
+But I’ve watched all the birdies,  
+And I’ve done the test.  
+And I can say for certain—
+
+*(tiny pause)*
+
+Woodpeckers are the best.
+
+### [Chorus]
+
+Woodpeckers are the best!
+
+Woodpeckers are the best!
+
+Peck-peck-peck-peck-peck all day,
+
+Then take a little rest.
+
+Built-in hammer in their beak,
+
+Right beneath their crest.
+
+Woodpeckers are—
+
+*(pause)*
+
+WOODPECKERS ARE—
+
+THE BEST!
+
+*(tap-tap-tap-tap)*
+
+### [Verse 2]
+
+They never need a toolbox.  
+They never need a drill.  
+They find a sturdy tree trunk  
+And peck it with their bill.
+
+No ladders, no hard hats,  
+No safety goggles yet.  
+They just bonk trees with their faces,
+
+*(pause)*
+
+And somehow they’re not dead.
+
+*(spoken quietly)*  
+Pretty impressive.
+
+### [Chorus]
+
+Woodpeckers are the best!
+
+Woodpeckers are the best!
+
+Peck-peck-peck-peck-peck all day,
+
+Then take a little rest.
+
+Built-in hammer in their beak,
+
+Right beneath their crest.
+
+Woodpeckers are—
+
+WOODPECKERS ARE—
+
+THE BEST!
+
+### [Bridge]
+
+*(Strumming gets quieter.)*
+
+Eagles may be mighty.
+
+Owls may be wise.
+
+Flamingos stand on one leg—
+
+I don’t know why.
+
+But can they drum a rhythm
+
+On a tree outside your nest?
+
+No?
+
+Didn’t think so.
+
+### [Final Chorus]
+
+*(Slightly bigger strum. Optional soft claps.)*
+
+Woodpeckers are the best!
+
+Woodpeckers are the best!
+
+They’ve got a tiny jackhammer
+
+Attached right to their chest—
+
+*(spoken)*  
+Well... their face.
+
+They peck the trees,
+
+They eat the bugs,
+
+They really are obsessed.
+
+Woodpeckers are—
+
+WOODPECKERS ARE—
+
+THE BEST!
+
+### [Outro]
+
+*(Everything stops.)*
+
+*(pause)*
+
+*(spoken quietly)*
+
+This conclusion has been reviewed by...
+
+...me.
+
+*tap*
+
+*tap-tap*
+
+*tap-tap-tap-tap-tap*
+
+Woodpeckers are the best.
 
 
 ## Pre-generation source settings
@@ -336,7 +488,7 @@ The user also allowed Suno to refine the lyrics slightly, relying on the generat
 ### Accepted version
 - **Model:** Suno v6-mini
 - **Approximate length:** 2:36
-- **Status:** Successful / accepted
+- **Status:** Successful / accepted as reference render; predates the approved opening-lyric revision
 - **Character:** cheeky acoustic singer-songwriter / novelty folk
 
 ## Lessons learned for future songs
