@@ -21,7 +21,8 @@ Child-specific parenting, developmental, household, or biographical material bel
 ## Repository structure
 
 - `docs/project-directions.md` — project operating rules, source-of-truth hierarchy, QA, Discovery, Materiality Gate, and repository lifecycle.
-- `docs/music-song-framework.md` — governing creative framework, discovery map, quality gates, generation/review workflow, and family-life song backlog.
+- `docs/music-song-framework.md` — governing creative framework, discovery map, quality gates, scoring model, and generation/review workflow.
+- `docs/potential-songs.md` — canonical multi-song concept backlog, candidate table, prioritization, and status.
 - `docs/songs/five-more-minutes.md` — dossier for **Five More Minutes**.
 - `docs/songs/woodpeckers-are-the-best.md` — dossier for **Woodpeckers Are the Best**.
 
