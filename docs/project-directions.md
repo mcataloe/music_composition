@@ -41,29 +41,22 @@ Treat wording, capitalization, punctuation, and minor phrasing differences as eq
 
 **QA** means to run a bounded, artifact-appropriate quality-assurance loop before returning the requested artifact or declaring it ready.
 
-A reasonable baseline quality check applies to substantive artifacts even when the user does not explicitly invoke QA. Explicit QA activates the formal loop below.
+A reasonable baseline quality check applies to substantive artifacts even when the user does not explicitly invoke QA. Explicit QA activates the formal defect-driven QA process.
 
-Use the repository's detailed QA rules where applicable, including the pre-generation QA loop in `docs/music-song-framework.md`.
+Use this general pattern:
 
-#### Formal QA loop
+> artifact → apply applicable canonical checks → revise material defects → rerun affected checks → return result
 
-Use this pattern:
+#### Canonical QA ownership
 
-> artifact → correctness / constraint QA → creative or domain critique → revise material defects → rerun relevant checks → return result
+Keep QA logic in one authoritative place whenever possible.
 
-If a revision materially changes the artifact, rerun the full relevant QA pass.
+- Detailed music, lyric, generation-package, and listening-related QA criteria, finding classes, and stopping rules live in the pre-generation QA loop of `docs/music-song-framework.md`.
+- This project-directions document owns the meaning of the **QA** command, its activation behavior, artifact-appropriate application, and the project-level result states below.
+- For non-song artifacts such as repository documentation, prompts, framework changes, or campaign plans, apply the same bounded, defect-driven principle but do not import irrelevant songwriting criteria.
+- When QA mechanics change, update the canonical implementation and its references rather than copying the same rule into multiple locations.
 
-QA must be tailored to the artifact. Song lyrics, Suno directions, dossiers, framework changes, prompts, repository documentation, and campaign plans should not all be judged by identical criteria.
-
-#### Finding classes
-
-Use these classes when useful:
-
-- **Must fix** — a correctness failure, contradiction, constraint violation, lost critical intent, or other defect that prevents acceptance.
-- **Should fix** — a clear weakness with a demonstrably better correction.
-- **Test in generation** — a musical, vocal, arrangement, pacing, interpretation, or experiential question that cannot be resolved reliably without hearing or otherwise testing the output.
-
-Do not force a paper solution to a **Test in generation** finding.
+If a revision materially changes the artifact, rerun the checks affected by that change. Run a full relevant pass when the change can affect the artifact as a whole.
 
 #### QA result states
 
@@ -76,13 +69,7 @@ Return one of these states after a formal QA pass:
 
 Summarize material findings and decisions. Do not burden the user with every low-level iteration.
 
-#### QA stopping rule
-
-QA is not endless polishing.
-
-Stop when:
-- no applicable hard-gate or correctness failure remains; and
-- the next proposed changes are primarily artistic preference, stylistic alternatives, or changes that cannot be validated without external evidence.
+For music-specific QA, use the framework's canonical stopping rule and **Must fix / Should fix / Test in generation** classifications. For other artifacts, stop when no material defect remains and further changes are primarily preference rather than identifiable improvement.
 
 Preserve intentional irregularity and distinctiveness when they serve the work.
 
@@ -135,6 +122,29 @@ When work concerns an existing song, consult both its current dossier and the go
 When the user approves a durable decision, that approval is sufficient authority to update the appropriate repository artifact without asking for a second “proceed.” Ask again only when the proposed repository change is destructive, unusually broad, materially ambiguous, or goes beyond the decision the user approved.
 
 Keep repository documentation synchronized with approved decisions so conversational context does not become the only place where project knowledge exists.
+
+
+### Ruleset synchronization and de-duplication
+
+Whenever a durable rule, convention, trigger, exception, precedence rule, workflow, or implementation behavior changes anywhere in the repository, perform a ruleset synchronization check before considering the change complete.
+
+The check must:
+
+1. identify the canonical owner of the changed rule;
+2. inspect `docs/project-directions.md`, `docs/music-song-framework.md`, and any other repository documents materially affected by that rule;
+3. detect duplicated, overlapping, or near-duplicated instructions;
+4. consolidate implementation detail into one canonical location whenever practical, replacing duplicates with concise references or scope-specific extensions;
+5. verify that references agree on activation semantics, precedence, exceptions, stopping conditions, and implementation behavior;
+6. verify that override handling does not contradict the authority hierarchy in this document;
+7. update stale cross-references or summaries affected by the rule change; and
+8. QA the changed rule and all materially affected references before the ruleset change is considered complete.
+
+Do not preserve duplicate instructions merely because they currently agree. Duplication creates drift risk.
+
+A short summary may exist in more than one document when it is operationally necessary, but only one location should own the full implementation rule. Secondary locations should clearly defer to the canonical rule rather than restating it independently.
+
+If two repository instructions disagree about how an action should be triggered, overridden, stopped, or implemented, treat that as a ruleset defect. Resolve it through the authority hierarchy and approved intent before returning **PASS** on the maintenance change.
+
 
 ## 4. Operating principle
 
