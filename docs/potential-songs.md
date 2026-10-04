@@ -16,7 +16,7 @@ These stars are concept-priority heuristics, not final song-quality scores. When
 
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
 |---|---|---|---|---:|---|
-| **The Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
+| **Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
 | **The Long Way Home** | Puddles, bugs, rocks, dogs, airplanes, flowers, and sidewalk discoveries keep interrupting the trip home. | Efficiency is not the same as living well; children notice what adults have trained themselves to walk past. | Wonder / storytelling | ★★★★★ | Backlog |
 | **I Can Do It Myself** | Independence, confidence, and gloriously imperfect attempts to do everything without help. | Pride mixed with the quiet realization that a child is gradually needing less help. | Comedy + restrained emotional turn | ★★★★★ | Backlog |
 | **One More Question** | An endless stream of funny and genuinely interesting questions about how the world works. | Wonder mixed with exhaustion, plus the knowledge that this season of constant questions will end. | Curiosity + humor + restrained emotion | ★★★★★ | Backlog |
@@ -36,11 +36,11 @@ These stars are concept-priority heuristics, not final song-quality scores. When
 | **The Sock That Got Away** | A missing sock becomes a mock-serious escape story or mystery. | The eternal absurdity of laundry and the unexplained physics of disappearing socks. | Mystery / mock seriousness | ★★★★☆ | Backlog |
 | **Nobody Asked the Cat** | The family cat watches the household and has opinions nobody requested. | Family chaos looks very different through the eyes of a detached, unimpressed witness. | Character comedy / deadpan | ★★★★☆ | Backlog |
 
-## Active concept — The Dishes Come Back
+## Active concept — Dishes Come Back
 
 Discovery is complete and the song has moved into active development.
 
-Canonical song-specific decisions now live in [**The Dishes Come Back**](songs/the-dishes-come-back.md).
+Canonical song-specific decisions now live in [**Dishes Come Back**](songs/dishes-come-back.md).
 
 Catalog summary:
 - first-person household dishwasher;
