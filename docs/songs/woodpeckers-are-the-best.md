@@ -491,6 +491,46 @@ The user also allowed Suno to refine the lyrics slightly, relying on the generat
 - **Status:** Successful / accepted as reference render; predates the approved opening-lyric revision
 - **Character:** cheeky acoustic singer-songwriter / novelty folk
 
+
+## Music video direction — Freebeat
+
+### Approved visual concept
+
+Create a **16:9 cinematic animated storytelling music video** centered on one recurring hero woodpecker in a beautiful suburban backyard / wooded neighborhood setting.
+
+The hero woodpecker should be anatomically believable and immediately recognizable, with black-and-white plumage, a vivid red head/crest accent, realistic proportions, and slightly heightened facial/body expressiveness. Avoid mascot styling, clothing, speech, or exaggerated preschool-cartoon behavior.
+
+The visual comedy should follow the song's existing artistic contract:
+- begin in a believable, attractive world;
+- treat the claim that woodpeckers are superior with complete seriousness;
+- let the evidence become progressively more absurd;
+- keep the filmmaking itself polished and relatively deadpan;
+- avoid sentimental nature-story framing.
+
+The human narrator is mostly unseen and should not lip-sync or perform to camera. He may appear briefly as a dry documentary-style observer conducting an absurdly serious investigation with binoculars, notes, or a clipboard.
+
+Use occasional human-world and competing-bird comparison gags without allowing them to displace the hero woodpecker. During the bridge, present the eagle, owl, and flamingo as prestigious competitors before returning decisively to the woodpecker.
+
+Choruses should become larger mainly through pacing, scale, stronger rhythmic movement, and a modest increase in the number of woodpeckers, while remaining in the same visual world.
+
+For the outro, reveal the narrator's overly serious research methodology. He silently reaches his conclusion, closes his clipboard or notes, and leaves while the woodpecker delivers the final taps. Do not depend on generated readable text for the joke.
+
+Do not use continuous karaoke lyrics or lyric captions. A clean opening title card is acceptable.
+
+### Freebeat initial prompt
+
+> Cinematic animated storytelling short about one recurring, believable but expressive hero woodpecker in a beautiful suburban backyard with mature trees and a wooded-neighborhood feel. Warm, polished, dimensional animation with realistic proportions and dry visual comedy—not preschool-cartoon styling. Treat the claim that woodpeckers are objectively the best with complete seriousness: begin grounded and natural, then let the visual evidence become increasingly absurd through occasional human/tool comparisons and other-bird competitors. Keep the mostly unseen male narrator as a deadpan documentary observer who appears only briefly and never lip-syncs. Choruses stay in the same world but get bigger through faster pacing, stronger rhythmic action, wider scale, and a few more woodpeckers. Keep the hero consistent throughout and end on the narrator's absurdly serious conclusion followed by the woodpecker's final taps.
+
+### Freebeat setup
+
+- **Creation mode:** Storytelling MV
+- **Master aspect ratio:** 16:9
+- **Primary continuity lock:** hero woodpecker
+- **Venue continuity:** suburban backyard / wooded neighborhood
+- **Tone:** cinematic, warm, playful, dry, understated
+- **Avoid:** lip-sync performance, mascot/cartoon styling, hyperactive preschool energy, sentimental nature messaging, constant on-screen lyrics
+
+
 ## Lessons learned for future songs
 
 Preserve spontaneous phrases when they are already strong.
