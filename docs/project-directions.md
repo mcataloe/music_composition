@@ -1,6 +1,6 @@
 # Music Composition Project Directions
 
-This file is the canonical operating ruleset for the Music Composition project. Keep it focused on project behavior. Creative songwriting rules belong in `docs/music-song-framework.md`; repository scope belongs in `README.md`; song-specific decisions belong in the relevant dossier.
+This file is the canonical operating ruleset for the Music Composition project. Keep it focused on project behavior. Creative songwriting rules belong in `docs/music-song-framework.md`; the multi-song concept backlog belongs in `docs/potential-songs.md`; repository scope belongs in `README.md`; song-specific decisions belong in the relevant dossier.
 
 ## 1. Source of truth and authority
 
@@ -73,6 +73,7 @@ Place durable information in its canonical owner:
 
 - project operating behavior → this file;
 - creative songwriting framework and reusable music/generation rules → `docs/music-song-framework.md`;
+- multi-song concept backlog, candidate prioritization, and catalog status → `docs/potential-songs.md`;
 - repository scope and navigation → `README.md`;
 - song-specific concept, lyrics, generation directions, review findings, and lessons → that song's dossier.
 
@@ -89,7 +90,7 @@ Whenever a durable rule, convention, trigger, exception, precedence rule, workfl
 The check must:
 
 1. identify the canonical owner of the changed rule;
-2. inspect this file, `docs/music-song-framework.md`, `README.md`, relevant song dossiers, and any other materially affected repository documents;
+2. inspect this file, `docs/music-song-framework.md`, `docs/potential-songs.md`, `README.md`, relevant song dossiers, and any other materially affected repository documents;
 3. detect duplicated, overlapping, or near-duplicated instructions;
 4. consolidate implementation detail into one canonical location whenever practical, replacing duplicates with concise references or scope-specific extensions;
 5. verify that references agree on activation semantics, precedence, exceptions, stopping conditions, and implementation behavior;
