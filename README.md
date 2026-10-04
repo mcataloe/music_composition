@@ -24,7 +24,7 @@ Child-specific parenting, developmental, household, or biographical material bel
 - `docs/music-song-framework.md` — governing creative framework, discovery map, quality gates, scoring model, and generation/review workflow.
 - `docs/potential-songs.md` — canonical multi-song concept backlog, candidate table, prioritization, and status.
 - `docs/songs/five-more-minutes.md` — dossier for **Five More Minutes**.
-- `docs/songs/the-dishes-come-back.md` — dossier for **The Dishes Come Back**.
+- `docs/songs/dishes-come-back.md` — dossier for **Dishes Come Back**.
 - `docs/songs/woodpeckers-are-the-best.md` — dossier for **Woodpeckers Are the Best**.
 
 ## Domain boundary
