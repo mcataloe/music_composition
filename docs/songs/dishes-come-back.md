@@ -309,10 +309,10 @@ That's when everybody suddenly
 Remembered something else
 One child had to find a crayon
 One had business down the hall
-One yelled, "Love you!" from the hallway
+Then "Love you!" floated from the shed
 Which was lovely. Helped not at all.
 
-You found laundry that needed folding
+There was laundry that needed folding
 Trash that somehow couldn't wait
 Funny how one sink can make
 Every other chore look great
@@ -334,10 +334,10 @@ So I rolled my sleeves up higher
 And turned the faucet on
 I washed bowls and cups and dinner plates
 Till every one was gone
-I dried the final little spoon
-And put it in its drawer
+I dried the final dinner plate
+And slid it into place
 I checked the sink, I checked the counter
-Then I checked them both once more
+Like I didn't trust my face
 
 [Victory]
 
@@ -350,6 +350,13 @@ Hung the towel on its rack
 For one brief shining moment
 Nothing had come back
 
+[False Ending]
+
+I made it halfway to the sofa
+Then I heard the smallest clink
+One little spoon sat all alone
+In the middle of the sink
+
 [Outro]
 
 They always come back.
@@ -358,9 +365,7 @@ They always come back.
 
 ### Style / production instructions
 
-Folksy country/Americana story-song with a dry, steady 4/4 pulse and minor-inflected warmth. Play the comedy completely straight: intimate, restrained lead vocal, never winky or theatrical. Start lean with acoustic guitar and warm bass; add brushed drums and subtle mandolin, fiddle, or resonator color as the dishes accumulate. Let the washing verse gain determined work-song momentum. Keep the chorus simple, catchy, and easy for children to sing without sounding like children's music. Natural small-room production, woody and slightly dusty, modern but not glossy. At the apparent victory, resolve and strip the arrangement almost bare; after “Nothing had come back,” leave a full beat of silence, then one clear dish clink, followed by the final line nearly exposed. End immediately—no final chorus.
-
-**Character count:** 804
+Folksy country/Americana story-song with a dry, steady 4/4 pulse and minor-inflected warmth. Play the comedy completely straight: intimate, restrained lead vocal, never winky or theatrical. Start lean with acoustic guitar and warm bass; add brushed drums and subtle mandolin, fiddle, or resonator color as the dishes accumulate. Let the washing verse gain determined work-song momentum. Keep the chorus simple and child-singable without sounding like children's music. Natural small-room production, woody and slightly dusty, modern but not glossy. At the clean-sink victory, resolve and strip the arrangement almost bare. Let the narrator musically begin to leave; isolate “the smallest clink” with a tiny real spoon/dish sound, then leave the final “They always come back” nearly exposed. End immediately—no final chorus.
 
 ### Generation controls
 
@@ -394,7 +399,8 @@ None remaining with a clearly stronger paper alternative.
 ### Test in generation
 - Whether the repeated chorus stays catchy rather than feeling over-repeated.
 - Whether "Which was lovely. Helped not at all." lands with the intended dry affection rather than sounding harsh.
-- Whether the partner lines read as pointed recognition without dominating the family-comedy balance.
+- Whether the shed callback reads naturally as the partner's conveniently distant affection without over-specifying gender in the lyric.
 - Whether the arrangement convincingly accumulates with the dishes and then releases at the clean-sink victory.
-- Whether Suno renders the single dish clink and exposed final line cleanly without adding a final chorus or unnecessary outro.
+- Whether the added false-ending beat gives the clean sink enough time to feel like a real win before the spoon returns.
+- Whether Suno renders the tiny spoon clink and exposed final line cleanly without adding a final chorus or unnecessary outro.
 
