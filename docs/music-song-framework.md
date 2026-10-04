@@ -1780,6 +1780,7 @@ Keep the framework song-agnostic. Individual songs should live in their own file
 
 Current song files:
 - [Five More Minutes](songs/five-more-minutes.md) — Full Brief complete; lyrics and generation work pending.
+- [Dishes Come Back](songs/dishes-come-back.md) — Discovery complete; lyrics and Suno baseline package ready for generation.
 - [Woodpeckers Are the Best](songs/woodpeckers-are-the-best.md) — Generated and reviewed; Pure Delight / Moment Song example.
 
 Song files may contain:
