@@ -16,7 +16,7 @@ These stars are concept-priority heuristics, not final song-quality scores. When
 
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
 |---|---|---|---|---:|---|
-| **The Dishes Come Back** *(working title)* | A mock-horror story where the dishes keep returning no matter how many times they are defeated. | The Sisyphean loop of domestic work: the sink is empty for approximately six beautiful minutes, then civilization resumes. | Dark domestic comedy / mock seriousness | ★★★★★ | New candidate |
+| **The Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
 | **The Long Way Home** | Puddles, bugs, rocks, dogs, airplanes, flowers, and sidewalk discoveries keep interrupting the trip home. | Efficiency is not the same as living well; children notice what adults have trained themselves to walk past. | Wonder / storytelling | ★★★★★ | Backlog |
 | **I Can Do It Myself** | Independence, confidence, and gloriously imperfect attempts to do everything without help. | Pride mixed with the quiet realization that a child is gradually needing less help. | Comedy + restrained emotional turn | ★★★★★ | Backlog |
 | **One More Question** | An endless stream of funny and genuinely interesting questions about how the world works. | Wonder mixed with exhaustion, plus the knowledge that this season of constant questions will end. | Curiosity + humor + restrained emotion | ★★★★★ | Backlog |
@@ -36,72 +36,21 @@ These stars are concept-priority heuristics, not final song-quality scores. When
 | **The Sock That Got Away** | A missing sock becomes a mock-serious escape story or mystery. | The eternal absurdity of laundry and the unexplained physics of disappearing socks. | Mystery / mock seriousness | ★★★★☆ | Backlog |
 | **Nobody Asked the Cat** | The family cat watches the household and has opinions nobody requested. | Family chaos looks very different through the eyes of a detached, unimpressed witness. | Character comedy / deadpan | ★★★★☆ | Backlog |
 
-## New concept note — The Dishes Come Back
+## Active concept — The Dishes Come Back
 
-### Core premise
+Discovery is complete and the song has moved into active development.
 
-The narrator finishes the dishes with the exhausted satisfaction of someone who has finally restored order to the universe.
+Canonical song-specific decisions now live in [**The Dishes Come Back**](songs/the-dishes-come-back.md).
 
-Then someone drinks a glass of water.
-
-The dishes are back.
-
-The song treats this as a recurring supernatural event rather than a chore lesson: the sink can be conquered, but never permanently. Every apparent victory contains the seeds of the next load.
-
-### Two-audience design
-
-**Child layer:**  
-The dishes behave almost like a recurring monster, zombie army, or mischievous creature. A child can enjoy the absurd inevitability and a recurring “they're back” hook without understanding any deeper meaning.
-
-**Adult layer:**  
-Domestic life contains work whose reward is not completion but temporary reset. The joke is lightly existential: the clean sink is real, the victory is real, and it is also doomed.
-
-### Tone
-
-**Dark humor, not bleakness.**
-
-The ideal flavor is mock dread, deadpan seriousness, and escalating absurdity — “kitchen gothic” rather than genuine horror. The narrator can sound increasingly convinced that plates reproduce when nobody is watching.
-
-The adult layer should land as recognition, not resentment toward a spouse, child, or family.
-
-### Possible humor mechanisms
-
-- mock seriousness;
-- escalation;
-- supernatural framing of an ordinary chore;
-- callbacks to the impossible-to-maintain empty sink;
-- precise understatement;
-- false victory followed immediately by one spoon or cup;
-- treating dishwashing equipment as battle gear without becoming cartoonish.
-
-### Possible musical lanes to test later
-
-These are directions, not decisions:
-
-- minor-key acoustic folk with a dry, steady pulse;
-- dusty country / western story-song treatment;
-- bluesy shuffle with deadpan vocal delivery;
-- deliberately over-serious cinematic folk for comic contrast.
-
-The darker musical color should still leave enough rhythmic lift and hook clarity for children to enjoy it.
-
-### Guardrails
-
-- Do not turn it into a “kids should do chores” lesson.
-- Do not make the family the villain; the recurring dishes are the joke.
-- Keep any horror imagery playful and developmentally safe.
-- Avoid bitterness about domestic labor.
-- Preserve the absurd truth: eating and living cause dishes, so the only permanent solution is apparently to stop civilization.
-
-### Early hook territory
-
-Not final lyrics, just concept territory:
-
-> I did the dishes.  
-> I turned around.  
-> The dishes came back.
-
-The repetition could become funnier as increasingly tiny causes restart the cycle.
+Catalog summary:
+- first-person household dishwasher;
+- female lead vocal, with gender-neutral lyrics;
+- pointed but affectionate satire of family cleanup dynamics;
+- children contribute to the accumulating dishes and become comically unavailable at cleanup time;
+- partner unavailability functions as a recurring adult-layer running gag;
+- folksy country / Americana story-song lane;
+- simple child-singable hook: **“The dishes come back / They always come back.”**
+- false-victory ending: clean sink, brief silence, *clink*, then **“They always come back.”**
 
 ## Graduated / established concept
 
