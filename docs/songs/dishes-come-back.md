@@ -337,7 +337,7 @@ Till every one was gone
 I dried the final dinner plate
 And slid it into place
 I checked the sink, I checked the counter
-Like I didn't trust my face
+Like I didn't trust my fate
 
 [Victory]
 
@@ -403,4 +403,3 @@ None remaining with a clearly stronger paper alternative.
 - Whether the arrangement convincingly accumulates with the dishes and then releases at the clean-sink victory.
 - Whether the added false-ending beat gives the clean sink enough time to feel like a real win before the spoon returns.
 - Whether Suno renders the tiny spoon clink and exposed final line cleanly without adding a final chorus or unnecessary outro.
-
