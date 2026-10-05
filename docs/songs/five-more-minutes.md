@@ -533,7 +533,7 @@ I say, "Not quite. Not tonight."
 
 Your feet reach nearly to the end
 You pull the blanket high
-I stay there with my hand in yours
+I stay there with your hand in mine
 And let the hallway wait
 
 [Verse 5]
