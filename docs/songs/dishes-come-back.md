@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Lyrics and Suno execution package drafted; pre-generation QA complete; baseline generation pending.
+**Stage:** Ending architecture revised; pre-generation QA complete; new baseline generation pending.
 
 ## Governing framework
 
@@ -169,22 +169,22 @@ The hook should change meaning through repetition:
 - final resignation.
 
 ### Form
-Likely verse / refrain with escalating scenes.
+Verse / chorus with escalating scenes and an altered final chorus.
 
 Working architecture:
 1. Opening verse — clean sink and first accumulation.
-2. Refrain.
+2. Chorus.
 3. Verse — pile grows; children contribute.
-4. Refrain.
+4. Chorus.
 5. Verse — cleanup begins; household help becomes unavailable.
-6. Refrain with more determination.
+6. Chorus with more determination.
 7. Verse — narrator works through the pile.
-8. Apparent victory / musical release.
-9. Brief silence.
+8. False-victory chorus — reuse the established chorus shape, but reverse its claim.
+9. Brief release after **“They’re not coming back.”**
 10. *Clink.*
-11. Final exposed line: **“They always come back.”**
+11. Short final tag ending on **“They always come back.”**
 
-Do not launch into a full final chorus after the clink.
+Do not launch into another full chorus after the clink.
 
 ### Ensemble / sound
 Likely palette:
@@ -200,9 +200,9 @@ Begin lean and allow the arrangement to accumulate with the dishes.
 
 The washing section can gain a determined work-song momentum.
 
-At the clean-sink victory, resolve and thin the texture enough to create real relief.
+Let the false-victory chorus briefly brighten and resolve while preserving the familiar chorus shape.
 
-Then leave space around the final *clink* and last line.
+After **“They’re not coming back,”** create enough space for the hope to register before the final *clink*. Then thin the texture around **“I should’ve known / They always come back.”**
 
 ### Participation device
 The refrain itself is the participation device:
@@ -339,25 +339,23 @@ And slid it into place
 I checked the sink, I checked the counter
 Like I didn't trust my fate
 
-[Victory]
+[False Victory Chorus]
 
-No cups beside the faucet
-No bowls, no spoons, no plates
-The kitchen stood in silence
-Like the world had set things straight
-I turned off the water
-Hung the towel on its rack
-For one brief shining moment
-Nothing had come back
+Dishes are gone
+They're finally gone
+I washed 'em and dried 'em
+And put 'em away
+I waited a minute
+No sign of a stack
+Maybe this time
+They're not coming back
 
-[False Ending]
+[Tag]
 
 I made it halfway to the sofa
 Then I heard the smallest clink
 One little spoon had made its way
 Right back into the sink
-
-[Outro]
 
 I should've known.
 They always come back.
@@ -366,7 +364,7 @@ They always come back.
 
 ### Style / production instructions
 
-Folksy country/Americana story-song with a dry, steady 4/4 pulse and minor-inflected warmth. Play the comedy completely straight: intimate, restrained lead vocal, never winky or theatrical. Start lean with acoustic guitar and warm bass; add brushed drums and subtle mandolin, fiddle, or resonator color as the dishes accumulate. Let the washing verse gain determined work-song momentum. Keep the chorus simple and child-singable without sounding like children's music. Natural small-room production, woody and slightly dusty, modern but not glossy. At the clean-sink victory, resolve and strip the arrangement almost bare. Let the narrator musically begin to leave; isolate “the smallest clink” with a tiny real spoon/dish sound, then leave the final “They always come back” nearly exposed. End immediately—no final chorus.
+Folksy country/Americana story-song with a dry, steady 4/4 pulse and minor-inflected warmth. Play the comedy completely straight: intimate, restrained lead vocal, never winky or theatrical. Start lean with acoustic guitar and warm bass; add brushed drums and subtle mandolin, fiddle, or resonator color as the dishes accumulate. Let Verse 4 gain determined work-song momentum. In the false-victory chorus, briefly brighten and resolve while preserving the established chorus shape. After “They’re not coming back,” create a small pocket of silence; isolate the spoon clink, then leave “I should’ve known / They always come back” nearly exposed. Natural small-room production, woody, warm, human, uncluttered. End immediately after the final line.
 
 ### Generation controls
 
@@ -381,26 +379,26 @@ Folksy country/Americana story-song with a dry, steady 4/4 pulse and minor-infle
 
 ## Pre-generation QA
 
-**Result: CONDITIONAL PASS — ready for baseline generation.**
+**Result: CONDITIONAL PASS — ready for a new baseline generation.**
 
 ### Must fix
 None remaining.
 
-- Developmental fit is appropriate for ages 4–7.
-- The partner satire is pointed but remains behavioral rather than cruel or gendered.
-- The children are comically unhelpful without being blamed for adult frustration.
-- The lyric does not turn into a chore lesson.
-- The country/Americana treatment remains musically credible rather than novelty-driven.
-- Lyrics, production directions, and generator controls are separated by function.
+- Developmental fit remains appropriate for ages 4–7.
+- The partner satire remains pointed but affectionate and non-gendered.
+- The bridge has been removed, restoring the cleaner comic escalation into Verse 4.
+- The false-victory chorus reuses the established chorus architecture instead of introducing another standalone ending section.
+- The altered chorus reverses the hook clearly: **“Maybe this time / They’re not coming back”** creates the false hope that the final tag overturns.
+- The tag restores the canonical hook with **“I should’ve known / They always come back,”** so the last line now resolves the immediate scene rather than feeling appended.
+- Lyrics, production directions, and generator controls remain separated by function.
 - Style instructions remain below the 1,000-character Suno limit.
 
 ### Should fix
 None remaining with a clearly stronger paper alternative.
 
 ### Test in generation
-- Whether the repeated chorus stays catchy rather than feeling over-repeated.
-- Whether "Which was lovely. Helped not at all." lands with the intended dry affection rather than sounding harsh.
-- Whether the shed callback reads naturally as the partner's conveniently distant affection without over-specifying gender in the lyric.
-- Whether the arrangement convincingly accumulates with the dishes and then releases at the clean-sink victory.
-- Whether the added false-ending beat gives the clean sink enough time to feel like a real win before the spoon returns.
-- Whether Suno renders the tiny spoon clink and exposed final line cleanly without adding a final chorus or unnecessary outro.
+- Whether the familiar chorus melody accepts the altered false-victory lyric naturally, especially **“Maybe this time.”**
+- Whether **“They’re not coming back”** gets enough musical resolution and space to create genuine false hope.
+- Whether the transition from the false-victory chorus into **“I made it halfway to the sofa”** feels like one continuous ending rather than another new section.
+- Whether the spoon clink lands cleanly and the final **“I should’ve known / They always come back”** feels inevitable rather than tagged on.
+- Whether the revised structure brings the runtime and pacing back into the intended range without rushing the final joke.
