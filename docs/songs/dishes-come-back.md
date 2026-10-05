@@ -354,11 +354,12 @@ Nothing had come back
 
 I made it halfway to the sofa
 Then I heard the smallest clink
-One little spoon sat all alone
-In the middle of the sink
+One little spoon had made its way
+Right back into the sink
 
 [Outro]
 
+I should've known.
 They always come back.
 
 ## Suno execution package
