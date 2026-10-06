@@ -1783,15 +1783,19 @@ Keep QA findings, rationale, and commentary outside the copy/edit blocks unless 
    - Do not use lyric annotations to repeat settings that belong in the style instructions or generation controls.
 
 3. **Generation controls**
+   - **Exclude Styles:** None or a concise list of styles, instruments, vocal treatments, or other elements to avoid.
    - **Vocal Gender:** Male / Female / Unspecified
    - **Duration:** Auto / Custom — target length when Custom
    - **Max Mode:** On / Off
    - **Weirdness:** recommended value
    - **Style Influence:** recommended value
+   - **Audio Influence:** N/A when no audio reference/input is active; otherwise recommend a value appropriate to how strongly the generation should follow that audio source.
    - **Variety:** recommended level / value
    - **Personalize:** On / Off
    - **Rationale:** brief explanation of why these settings fit the song
    - Controls own these decisions; do not echo them elsewhere unless a distinction is musically necessary.
+   - Use **Exclude Styles** for negative constraints when possible rather than spending positive style-prompt space saying what not to do.
+   - Treat **Audio Influence** as source-audio conditioning strength, not as a universal musical parameter; its practical effect depends on the active audio source and generation workflow.
 
 4. **De-duplication check**
    - Compare the style instructions, lyrics, and controls before delivery.
