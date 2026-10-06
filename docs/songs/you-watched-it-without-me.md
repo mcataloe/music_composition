@@ -425,15 +425,17 @@ Slow-burning 1960s/70s dramatic soul ballad in deep 12/8, played with absolute s
 
 | Control | Baseline setting |
 |---|---|
+| Exclude Styles | novelty song, parody, musical theater, campy vocals, duet vocals, character voices |
 | Vocal Gender | Unspecified |
 | Duration | Custom — approximately 3:45 |
 | Max Mode | On |
 | Weirdness | 20% |
 | Style Influence | 85% |
+| Audio Influence | N/A for text-only baseline; if a reference audio source is loaded, start at 25% |
 | Variety | Low |
 | Personalize | Off |
 
-**Rationale:** Favor faithful dramatic-soul execution, one consistent vocal identity, clear near-reconciliation contrast, and a reliable whole-step lift into the final chorus before exploring more variable interpretations.
+**Rationale:** Favor faithful dramatic-soul execution, one consistent vocal identity, clear near-reconciliation contrast, and a reliable whole-step lift into the final chorus before exploring more variable interpretations. Exclusions discourage Suno from turning the premise into overt comedy or a multi-character performance. Audio Influence is not part of the clean text-only baseline; 25% is a low starting point only when a source audio reference is intentionally active.
 
 ## Pre-generation QA
 
