@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Discovery complete; Full Brief approved; lyrics and generation package pending.
+**Stage:** Initial generation package ready; pre-generation QA complete; baseline generation pending.
 
 ## Governing framework
 
@@ -297,3 +297,178 @@ This song adds:
 **Discovery complete. Materiality Gate closed.**
 
 Remaining choices such as exact vocal gender, key, BPM, specific horn voicings, and whether the final held title line uses a gospel backing-vocal response are execution refinements and do not materially change the approved creative direction.
+
+
+## Current Working Lyrics — Draft 1
+
+[Verse 1]
+
+There was something in the silence  
+When I came in through the door  
+You asked me how my day had been  
+Then asked me once more  
+You couldn't meet my eyes, love  
+You slid the remote away  
+Then I saw “Continue Watching”  
+And I knew what you'd done that day  
+
+[Chorus]
+
+You watched it without me  
+You knew that show was ours  
+We waited through the bedtime noise  
+To steal one quiet hour  
+You watched it without me  
+Now what am I supposed to say?  
+“It was only one episode”  
+Doesn't make it okay  
+You watched it without me  
+
+[Verse 2]
+
+[Partner]  
+“You said you weren't that into it.”
+
+[Lead]  
+That's not what I said  
+I said the middle dragged a little  
+That didn't mean “go ahead”  
+You knew exactly where we'd left it  
+You knew I hadn't seen  
+What happened after that last scene  
+Don't put this one on me  
+
+[Chorus]
+
+You watched it without me  
+You knew that show was ours  
+We waited through the bedtime noise  
+To steal one quiet hour  
+You watched it without me  
+Now what am I supposed to say?  
+“You weren't even that invested”  
+Doesn't make it okay  
+You watched it without me  
+
+[Verse 3]
+
+[Partner]  
+“I only meant to start it—  
+I wasn't gonna finish.”
+
+[Lead]  
+But the credits rolled without me  
+So don't ask me to believe it  
+One little minute turned to forty-three  
+That's all the proof I need  
+You can tell me it just happened  
+But you still had to press play  
+
+[Chorus]
+
+You watched it without me  
+You couldn't wait one night  
+You knew that show was ours, love  
+You knew that wasn't right  
+You watched it without me  
+And every word you say  
+Just sounds like one more reason  
+You couldn't wait for me  
+You watched it without me  
+
+[Bridge]
+
+I would've waited through the darkness  
+I would've waited through the rain  
+I would've watched the whole recap twice  
+Just to start with you again  
+But you crossed that little distance  
+From “Next Episode” to play  
+And somewhere in those forty-three minutes  
+You took our Friday night away  
+
+[Breakdown]
+
+All right, come sit beside me  
+Maybe I can let this lie  
+Maybe one small episode  
+Ain't worth all this tonight  
+
+[Partner]  
+“I'm sorry. I should've waited.  
+And honestly, the next one wasn't—”
+
+[Lead]  
+The next one?
+
+[Partner]  
+...
+
+[Lead]  
+You watched two?
+
+[Final Chorus]
+
+You watched it without me  
+You watched another too  
+I was halfway to forgiveness  
+Now look what you've put me through  
+You watched it without me  
+Don't tell me what I missed  
+You can save your explanations  
+We're not done with this  
+You watched it without me  
+
+[Tag]
+
+Twice.
+
+You watched it without me.
+
+## Initial Suno execution package
+
+### Style / production instructions
+
+Slow-burning 1960s/70s dramatic soul ballad in deep 12/8, played with absolute emotional sincerity—never novelty or camp. Begin intimate with piano, Hammond-style organ, warm bass, restrained drums, and close lead vocal. Let strings, horns, soul guitar fills, and gospel-influenced backing vocals enter gradually as the accusation grows. Keep the verses conversational and wounded; make “You watched it without me” open into a large, aching melodic hook. Use a contrasting second adult voice only for the partner interjections, natural and understated. Strip almost everything away for the near-reconciliation. After “You watched two?” leave a stunned beat, then slam into the biggest full-band final chorus with horns, drums, strings, organ, and backing vocals at maximum intensity. Warm analog character, modern clarity, human dynamics.
+
+**Style character count:** 838
+
+### Generation controls
+
+| Control | Baseline setting |
+|---|---|
+| Vocal Gender | Unspecified |
+| Duration | Custom — approximately 3:45 |
+| Max Mode | On |
+| Weirdness | 20% |
+| Style Influence | 85% |
+| Variety | Low |
+| Personalize | Off |
+
+**Rationale:** Favor faithful dramatic-soul execution, natural dialogue, stable section contrast, and the final dynamic reversal before exploring more variable interpretations.
+
+## Pre-generation QA
+
+**Result: CONDITIONAL PASS — ready for baseline generation.**
+
+### Must fix
+None remaining.
+
+- Child-safe access passes for the parent / couple-centered lane.
+- The double entendre remains fully literal on the child-facing surface and is not explained or repeated.
+- The relationship remains secure; the conflict is theatrical rather than threatening.
+- The style instructions preserve classic-soul seriousness and do not cue novelty-song comedy.
+- Lyrics, style directions, and generator controls remain separated by function.
+- The style instructions are below the current 1,000-character Suno limit.
+- Control-owned decisions such as vocal gender, duration, Weirdness, Style Influence, Variety, Max Mode, and Personalize are not redundantly repeated in the style prompt.
+
+### Should fix
+None with a clearly stronger paper alternative before hearing the result.
+
+### Test in generation
+- Whether the lyric density fits approximately 3:45 without rushing the slow 12/8 groove.
+- Whether Suno reliably renders the partner interjections as a contrasting second adult voice without over-expanding them.
+- Whether the title hook opens melodically enough to justify repeated choruses.
+- Whether the near-reconciliation strips down far enough to create a genuine emotional reset.
+- Whether the silence after “You watched two?” is long enough for the joke to land before the final full-band entrance.
+- Whether “We're not done with this” reads as delightfully petty rather than genuinely hostile in performance.
