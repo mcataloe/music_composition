@@ -393,6 +393,8 @@ And honestly, the next one wasn't—”
 
 The next one?
 
+[Key Change: Up a Whole Step]
+
 You watched two?
 
 [Final Chorus]
@@ -417,9 +419,9 @@ You watched it without me.
 
 ### Style / production instructions
 
-Slow-burning 1960s/70s dramatic soul ballad in deep 12/8, played with absolute sincerity—never novelty or camp. One lead vocalist throughout; quoted excuses stay in the same voice, delivered conversationally rather than as character impressions. Begin intimate with piano, Hammond organ, warm bass, restrained drums, and close vocal. Gradually add strings, horns, soul guitar fills, and stacked same-voice gospel harmonies as the accusation grows. Make “You watched it without me” a large, aching melodic hook. Strip nearly everything away for the near-reconciliation. Let “The next one?” hang in stunned silence. Use “You watched two?” as a dramatic whole-step upward key-change pivot, then explode into the biggest final chorus with full drums, horns, strings, organ, and stacked harmonies. Warm analog character, modern clarity, human dynamics.
+Slow-burning 1960s/70s dramatic soul ballad in deep 12/8, played with absolute sincerity—never novelty or camp. One lead vocalist throughout; quoted excuses stay in the same voice, delivered conversationally rather than as character impressions. Begin intimate with piano, Hammond organ, warm bass, restrained drums, and close vocal. Gradually add strings, horns, soul guitar fills, and stacked same-voice gospel harmonies as the accusation grows. Make “You watched it without me” a large, aching melodic hook. Strip nearly everything away for the near-reconciliation. Let “The next one?” hang in stunned silence, then explode into the biggest final chorus with full drums, horns, strings, organ, and stacked harmonies. Warm analog character, modern clarity, human dynamics.
 
-**Style character count:** 847
+**Style character count:** 774
 
 ### Generation controls
 
@@ -450,7 +452,7 @@ None remaining.
 - The previously awkward **seen / scene** phonetic repetition remains corrected with **"What came after that cliffhanger."**
 - The double entendre remains fully literal on the child-facing surface and is not explained or repeated.
 - The relationship remains secure; the conflict is theatrical rather than threatening.
-- The whole-step modulation is specified in the style channel rather than duplicated in the lyric markup.
+- The whole-step modulation is now intentionally specified at the exact lyric transition with **[Key Change: Up a Whole Step]** immediately before **“You watched two?”**; the Style field no longer duplicates that instruction.
 - Lyrics, style directions, and generator controls remain separated by function.
 - The style instructions remain below the current 1,000-character Suno limit.
 
@@ -461,6 +463,6 @@ None with a clearly stronger paper alternative before hearing the result.
 - Whether Suno treats the quoted apology as the same singer narrating another person's words rather than creating an unwanted character shift.
 - Whether the slow 12/8 delivery fits approximately 3:45 without rushing the bridge or breakdown.
 - Whether **"The next one?"** receives enough silence to make the accidental reveal legible.
-- Whether **"You watched two?"** actually produces a convincing whole-step modulation rather than merely a melodic lift.
+- Whether Suno honors **[Key Change: Up a Whole Step]** as a true modulation beginning on **"You watched two?"** rather than treating it as a generic intensity cue.
 - Whether the final chorus stays in the new key and feels meaningfully larger.
 - Whether **"We're not done with this"** reads as delightfully petty rather than genuinely hostile in performance.
