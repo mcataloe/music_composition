@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Generated and reviewed; canonical lyric revision accepted after QA.
+**Stage:** Completed; final Suno version published.
 
 **Generation model:** Suno v6-mini
 
