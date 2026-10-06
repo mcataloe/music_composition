@@ -4,7 +4,11 @@ This repository is the home for the reusable songwriting system and the songs de
 
 ## Scope
 
-The project focuses on family-life music that can work for children and adults together. Its identity comes from strong songwriting, concrete observation, emotional honesty, humor, credible musical treatment, and multigenerational replay value rather than from a fixed children's-music sound.
+The project focuses on music about **family and ordinary everyday life** that can work in households with children roughly ages 4–7 and adults together. Individual songs may be child-centered, whole-family / household-centered, or parent / couple-centered; balance is evaluated primarily across the catalog rather than forced inside every song.
+
+Parent / couple-centered songs may address adult subject matter when the material remains appropriate for a young child to hear. Advanced adult meaning or mild innuendo may pass over the child's head, but it should remain subtle, low-salience, and nonessential rather than prompting confusion, distress, or a need for explanation.
+
+The project's identity comes from strong songwriting, concrete observation, emotional honesty, humor, credible musical treatment, and multigenerational replay value rather than from a fixed children's-music sound.
 
 This repository owns:
 - the reusable music and song composition framework;
