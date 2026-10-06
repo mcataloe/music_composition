@@ -60,12 +60,12 @@ Canonical song-specific decisions now live in [**You Watched It Without Me**](so
 
 Catalog summary:
 - parent / couple-centered relationship comedy;
-- betrayed-partner lead with sparse guilty-partner interjections;
+- single betrayed-partner lead who quotes or paraphrases the guilty partner's excuses;
 - dramatic 1960s/70s soul-ballad treatment played completely straight;
 - late-Verse-1 reveal that the "betrayal" was watching the next episode alone;
 - one fully deniable adult double entendre around only meaning to start the episode and not intending to finish;
 - half-reconciliation ending interrupted by accidental disclosure of a second watched episode;
-- final **"You watched TWO?"** triggers the largest chorus and arrangement of the song.
+- final **"You watched TWO?"** triggers a whole-step upward modulation and the largest chorus and arrangement of the song.
 
 ## Active concept — The Long Way Home
 
