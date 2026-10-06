@@ -31,7 +31,7 @@ Current catalog tendency:
 
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
 |---|---|---|---|---:|---|
-| **You Watched It Without Me** | One partner is dramatically devastated because the other watched the next episode of their shared show. | The strangely real etiquette of couple rituals, wildly disproportionate heartbreak, and one adult-readable but child-invisible double entendre. | Parent/couple comedy / dramatic soul heartbreak | ★★★★★ | Discovery complete |\n| **Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
+| **You Watched It Without Me** | One partner is dramatically devastated because the other watched the next episode of their shared show. | The strangely real etiquette of couple rituals, wildly disproportionate heartbreak, and one adult-readable but child-invisible double entendre. | Parent/couple comedy / dramatic soul heartbreak | ★★★★★ | Ready for generation |\n| **Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
 | **Feed the Cats** | Callie and Capone mount a desperate campaign for their 7:00 PM wet-food dinner. | The absurd certainty of cats that a completely dependable feeding routine is an existential emergency. | Mock-serious domestic comedy / jazz samba | ★★★★★ | Ready for generation |
 | **The Long Way Home** | Puddles, bugs, rocks, dogs, airplanes, flowers, and sidewalk discoveries keep interrupting the trip home. | Efficiency is not the same as living well; children notice what adults have trained themselves to walk past. | Wonder / samba-jazz storytelling | ★★★★★ | In development |
 | **I Can Do It Myself** | Independence, confidence, and gloriously imperfect attempts to do everything without help. | Pride mixed with the quiet realization that a child is gradually needing less help. | Comedy + restrained emotional turn | ★★★★★ | Backlog |
@@ -54,7 +54,7 @@ Current catalog tendency:
 
 ## Active concept — You Watched It Without Me
 
-Discovery is complete and the song has moved into active development.
+Discovery and the initial generation package are complete; the baseline generation is pending.
 
 Canonical song-specific decisions now live in [**You Watched It Without Me**](songs/you-watched-it-without-me.md).
 
