@@ -4,11 +4,13 @@
 
 This document defines a creative framework for family-life songs designed to work for children roughly ages 4–7 and adults together, without tying the creative system to any one child-specific domain.
 
-The objective is **not** to make conventional children's music that adults merely tolerate. The goal is to make genuinely good songs built around experiences children immediately understand, with enough musical credibility, observational truth, humor, or emotional depth that adults can enjoy them independently.
+The objective is **not** to make conventional children's music that adults merely tolerate. The goal is to make genuinely good songs about **family and ordinary everyday life** that can live comfortably in a household with children roughly ages 4–7 while remaining musically, lyrically, and emotionally worthwhile for adults.
+
+Individual songs do not need to divide their attention equally. A song may be child-centered, whole-family / household-centered, or parent / couple-centered. The approximately 50/50 child-adult aspiration belongs primarily to the **catalog as a whole**, not as a mandatory ratio inside every song.
 
 A useful shorthand is:
 
-> **Kids hear the story. Adults hear the second layer. Both should hear a good song.**
+> **Some songs meet in the middle. Some lean toward the child. Some lean toward the adults. Everyone should still hear a good song.**
 
 This is a creative framework, not a parenting curriculum. Songs may support healthy development, emotional language, curiosity, autonomy, relationships, resilience, or family connection, but they should not become disguised lectures.
 
@@ -16,47 +18,47 @@ This is a creative framework, not a parenting curriculum. Songs may support heal
 
 ## 1. Audience Model
 
-### Primary audience
-Children approximately ages 4–7.
+### Shared family audience
 
-Songs should generally be:
-- understandable without adult explanation;
-- concrete enough to visualize;
-- memorable and singable;
-- emotionally legible;
-- playful, surprising, rhythmic, narrative, or otherwise intrinsically interesting;
-- respectful of children rather than speaking down to them.
+The project serves **children roughly ages 4–7 and the adults who share everyday life with them**. Neither group is permanently designated the primary or secondary audience.
 
-### Strong secondary audience
-Parents, caregivers, and adults.
+Audience weighting may vary by song:
 
-Adult appeal may come from:
+- **Child-centered** — the child's experience, imagination, feeling, or comedy is central; adults receive musical quality, recognition, nostalgia, subtext, or a second layer.
+- **Whole-family / household-centered** — the premise belongs naturally to the shared family world: chores, pets, errands, routines, meals, travel, household mishaps, or family rituals.
+- **Parent / couple-centered** — the adult relationship or adult experience is central, while the song remains appropriate for a young child to hear.
+
+These are portfolio diagnostics, not quotas. A strong catalog may move freely among them.
+
+### Child-access standard
+
+For child-centered and whole-family songs, children approximately ages 4–7 should generally have an immediate way into the song through story, character, hook, humor, rhythm, image, feeling, or participation.
+
+For parent / couple-centered songs, the child does **not** need to understand the adult subject matter or emotional center. The song must instead be safe and comfortable for the child to hear. More advanced adult meaning, including mild innuendo or relationship subtext, may exist only when it is sufficiently indirect, low-salience, and nonessential that a young child is unlikely to fixate on it, become distressed by it, or require an explanation in order to enjoy the song.
+
+Avoid explicit sexual content, contempt, humiliation, threatening relationship instability, or adult material likely to create anxiety or confusion for the child listener.
+
+### Adult appeal
+
+Adult value may come from:
 - observational comedy;
+- couple and household recognition;
 - nostalgia;
-- recognition of family life;
-- emotional subtext;
+- emotional subtext or explicit adult perspective;
 - musical sophistication;
 - strong songwriting;
-- irony or double meaning that does not exclude the child;
-- the bittersweet experience of watching children grow.
+- irony or double meaning;
+- the absurdity of ordinary domestic life;
+- tenderness between adults;
+- the bittersweet experience of family change and children growing.
 
-### Highest-common-denominator principle
+### Shared-access principle
 
-Do not aim for a compromise halfway between children's music and adult music.
+Do not force every song into a compromise halfway between children's music and adult music.
 
-Instead, look for **human experiences that exist at both ages**, expressed concretely enough for a child and truthfully enough for an adult.
+Instead, ask what each intended audience needs **from this particular song**. Sometimes both audiences share the same surface experience. Sometimes the child receives a concrete, funny, musical surface while adults receive most of the thematic content. Sometimes the adult relationship is the actual story and the child's role is simply to be able to hear the song comfortably.
 
-Examples:
-- wanting five more minutes;
-- being afraid and trying anyway;
-- wanting to do something independently;
-- having a bad day;
-- asking endless questions;
-- losing something important;
-- noticing things adults walk past;
-- resisting bedtime;
-- changing one's mind;
-- needing comfort.
+The catalog-level goal is shared family listening, not identical comprehension.
 
 ---
 
@@ -89,10 +91,9 @@ over abstract concepts such as:
 
 The abstract meaning can emerge from the concrete event.
 
-### Rule 3 — The adult layer should be discovered, not announced
-A child should not need to understand the adult subtext.
+### Rule 3 — Match the layering strategy to the audience lane
 
-Adult meaning works best when it appears through:
+In child-centered songs, adult meaning often works best when it is discovered rather than announced through:
 - one line;
 - a bridge;
 - a reversal;
@@ -100,7 +101,11 @@ Adult meaning works best when it appears through:
 - a callback;
 - the accumulated meaning of the story.
 
-Avoid making every song sentimental or ending every song with a parenting message.
+In whole-family songs, child and adult perspectives may share the surface more directly.
+
+In parent / couple-centered songs, explicit adult perspective is fully legitimate. A child does not need to understand every adult implication. Any advanced adult layer should remain low-salience and nonessential to the child's enjoyment.
+
+Avoid making every song sentimental or forcing a parenting message onto material that does not need one.
 
 ### Rule 4 — Comedy is a first-class artistic mode
 A song may be worthwhile simply because it is funny and musically good.
@@ -112,8 +117,10 @@ Do not default to "children's music" instrumentation, melody, production, or voc
 
 Songs may draw authentically from folk, acoustic pop, bluegrass, country, jazz, swing, rock and roll, piano ballad, funk, soul, indie, orchestral pop, hand-clap pop, or other genres when appropriate to the concept.
 
-### Rule 6 — Write songs about childhood, not merely songs for children
-This opens a larger creative space in which children recognize the immediate experience and adults recognize what childhood means from the other side.
+### Rule 6 — Write songs about lived family life, not merely songs for children
+The creative field includes childhood, parenting, couple dynamics, pets, chores, errands, household routines, family rituals, and other ordinary experiences that become funny, moving, strange, or meaningful when people live together.
+
+The child may be the protagonist, one participant, an observer, or simply part of the household context.
 
 ---
 
@@ -175,6 +182,9 @@ Possible structures:
 - child narrator misunderstood by adult;
 - adult narrator observing childhood;
 - alternating child/adult perspectives;
+- whole-family household comedy;
+- parent / couple story with a child-safe surface;
+- adult relationship story whose advanced meaning is intentionally low-salience to the child;
 - final-line or final-verse reversal;
 - no adult subtext at all — simply excellent universal comedy or storytelling.
 
@@ -451,15 +461,16 @@ Possible mechanisms:
 - final image reframes the song;
 - no turn — comedy remains comedy.
 
-### T. Developmental Fit
+### T. Developmental Fit / Child-Safe Access
 Check:
-- Is the surface story understandable at 4–7?
-- Are images concrete?
+- For a child-centered or whole-family song, is there an understandable and enjoyable entry point at ages 4–7?
+- Are child-facing images, hooks, and situations concrete enough to follow?
 - Does repetition help rather than bore?
-- Is the vocabulary interesting but inferable?
-- Is the emotional situation recognizable?
-- Does it respect rather than infantilize the child?
-- Does it preserve room for imagination rather than explaining everything?
+- Is child-facing vocabulary interesting but reasonably inferable?
+- Does the song respect rather than infantilize the child?
+- For a parent / couple-centered song, is the material safe and comfortable for a young child to hear even when the adult meaning goes over the child's head?
+- Is any innuendo or advanced adult layer indirect and low-salience enough that it is unlikely to provoke confusion, distress, or a need for explanation?
+- Does the song preserve room for imagination rather than explaining everything?
 
 ### U. Adult Repeatability
 Check:
@@ -478,26 +489,27 @@ A future song brief may eventually include:
 
 1. **Topic / concrete premise**
 2. **Underlying theme**
-3. **Primary child appeal**
-4. **Secondary adult layer**
-5. **Primary emotion**
-6. **Secondary emotion**
-7. **Narrative device**
-8. **Point of view**
-9. **Genre**
-10. **Tempo / meter / groove**
-11. **Harmonic character**
-12. **Melodic approach**
-13. **Vocal character**
-14. **Ensemble**
-15. **Texture**
-16. **Timbre**
-17. **Production aesthetic**
-18. **Participation device**
-19. **Humor mechanism, if any**
-20. **Emotional turn / payoff**
-21. **Developmental-fit check**
-22. **Adult-repeatability check**
+3. **Audience lane**
+4. **Child access / child layer**
+5. **Adult center / adult layer**
+6. **Primary emotion**
+7. **Secondary emotion**
+8. **Narrative device**
+9. **Point of view**
+10. **Genre**
+11. **Tempo / meter / groove**
+12. **Harmonic character**
+13. **Melodic approach**
+14. **Vocal character**
+15. **Ensemble**
+16. **Texture**
+17. **Timbre**
+18. **Production aesthetic**
+19. **Participation device**
+20. **Humor mechanism, if any**
+21. **Emotional turn / payoff**
+22. **Developmental-fit / child-safe-access check**
+23. **Adult-repeatability check**
 
 This model is intentionally broad at this stage. It should be simplified after discovery identifies which dimensions materially influence creative decisions and which are redundant.
 
@@ -508,13 +520,13 @@ This model is intentionally broad at this stage. It should be simplified after d
 The strongest catalog will probably **vary musical style more than thematic philosophy**.
 
 Stable identity may come from:
-- respect for the child audience;
+- respect for children as listeners even when they are not the song's subject;
 - credible songwriting;
-- concrete storytelling;
-- humor that works at multiple ages;
+- concrete storytelling and observation;
+- humor that works across family life;
 - emotional honesty without sentimentality;
-- occasional adult subtext;
-- high replay value for the entire family.
+- flexible use of child, household, parent, and couple perspectives;
+- high replay value for the household as a whole.
 
 Individual songs should then be free to sound substantially different from one another.
 
@@ -542,17 +554,18 @@ Continuity should come primarily from:
 - multigenerational meaning;
 - adult-quality musical execution.
 
-### Audience target: true 50/50 family music
+### Audience target: catalog-level family balance
 
-The desired target is not children's music with adult appeal as a bonus.
+The desired target is not children's music with adult appeal as a bonus, nor adult music merely sanitized for children.
 
-The aim is approximately **50/50 child and adult relevance**.
+The approximately **50/50 child and adult aspiration applies primarily across the catalog**, not as a mandatory ratio inside each song.
 
-A successful song should work as:
-- an immediate, understandable experience for a child;
-- a musically and emotionally worthwhile song for an adult.
+Individual songs may lean substantially toward one audience when the premise calls for it. Child-centered, whole-family / household-centered, and parent / couple-centered songs are all first-class parts of the project.
 
-Neither audience should feel like an afterthought.
+Across the body of work:
+- children should repeatedly encounter songs made with genuine respect for their intelligence, humor, feelings, and musical taste;
+- adults should repeatedly encounter songs that speak directly to recognizable family, household, parenting, and couple experiences;
+- neither audience should become an afterthought across the project as a whole.
 
 ### Emotional range as a core feature
 
@@ -779,19 +792,17 @@ They should not manufacture **suffering** for artistic weight.
 
 The goal is not instant closure. A song may reasonably stretch the listener's emotional understanding enough that the meaning becomes clearer over time rather than immediately.
 
-### Adult perspective: subtext by default
+### Adult perspective: first-class when the song calls for it
 
-The adult layer should usually remain implicit.
+Adult perspective may be implicit or explicit.
 
-Use explicit parent or adult perspective selectively through devices such as:
-- a bridge;
-- one revealing line;
-- a final verse;
-- a duet;
-- a perspective change;
-- a lyrical callback that gains new meaning.
+In child-centered songs, restraint and subtext often preserve the child's ownership of the song.
 
-Because explicit adult perspective is less common, it can carry more emotional weight when used.
+In whole-family songs, adult and child perspectives may coexist directly.
+
+In parent / couple-centered songs, an adult narrator, explicit adult relationship, duet, domestic disagreement, affection, exhaustion, or shared private understanding may be the central material rather than a hidden second layer.
+
+Advanced adult meaning may go over a young child's head, but it must remain developmentally safe to overhear. Mild innuendo or double meaning is acceptable only when it is subtle, nonessential, and unlikely to draw a young child's attention or create a need for explanation.
 
 ### Form follows the song
 
@@ -945,21 +956,27 @@ An adult may discover additional meaning, but the child should not need the refe
 
 ## 11. Discovery Decisions — Round 5
 
-### Topic sourcing: current life plus evergreen childhood
+### Topic sourcing: current life plus evergreen family life
 
-Song ideas may come from Aurelia's current experiences, but the catalog should not be limited to autobiographical moments.
+Song ideas may come from current family experiences, but the catalog should not be limited to autobiographical moments.
 
-Use current-life observations as a source of authenticity while also pursuing evergreen childhood experiences that apply more broadly.
+Use lived observation as a source of authenticity while also pursuing evergreen childhood, parenting, couple, household, and family experiences that apply more broadly.
 
 Good sources include:
-- something Aurelia is currently saying, doing, fearing, loving, resisting, or wondering about;
+- something a child is currently saying, doing, fearing, loving, resisting, or wondering about;
 - recurring family situations;
 - universal childhood experiences;
+- parent / child mismatches;
+- couple dynamics inside family life;
+- pets;
+- chores and division of labor;
+- errands, meals, cars, school mornings, bedtime, travel, holidays, and home routines;
+- work-from-home or scheduling collisions;
 - imaginative premises;
 - emotional states;
 - ordinary domestic comedy;
 - seasonal moments;
-- broader parent-child experiences.
+- broader intergenerational experiences.
 
 The catalog should feel lived-in without becoming a diary.
 
@@ -1011,7 +1028,8 @@ Future song ideas should be compared using a lightweight scoring model.
 
 Recommended dimensions:
 
-- **Child immediacy** — Can a 4–7-year-old quickly connect with the surface idea?
+- **Audience-lane fit** — Does the concept strongly serve its intended child-centered, whole-family / household-centered, or parent / couple-centered lane?
+- **Child access / safety** — For child-facing songs, can a 4–7-year-old quickly connect with the surface idea? For adult-forward songs, is the material safe and comfortable for a young child to overhear?
 - **Adult resonance** — Is there meaningful humor, emotion, recognition, or musical appeal for adults?
 - **Musical potential** — Does the concept suggest a compelling musical treatment?
 - **Emotional depth** — Is there meaningful emotional material when appropriate?
@@ -1239,11 +1257,13 @@ The songs should remain fully understandable and enjoyable in isolation.
 Candidate-topic scoring should not treat every dimension as equally important.
 
 Highest default weight:
-- child immediacy;
-- adult resonance;
+- audience-lane fit;
 - musical potential;
 - replay value;
-- developmental fit.
+- developmental appropriateness / child-safe access;
+- adult resonance.
+
+For child-centered and whole-family concepts, **child immediacy** also carries high weight. For parent / couple-centered concepts, child immediacy is not required; the relevant gate is whether the material remains appropriate and unobtrusive for a young child listener.
 
 Context-dependent or bonus dimensions:
 - humor potential;
@@ -1253,7 +1273,7 @@ Context-dependent or bonus dimensions:
 - interpretive depth;
 - portfolio contribution.
 
-Weights may shift depending on catalog needs, but core viability should remain dominant.
+Weights may shift depending on catalog needs and intended audience lane, but core viability should remain dominant.
 
 ### Hard gates versus soft scores
 
@@ -1278,8 +1298,9 @@ For straightforward, low-risk concepts.
 Should capture:
 - topic;
 - theme;
-- child layer;
-- adult layer;
+- audience lane;
+- child access / child layer;
+- adult center / adult layer;
 - emotion;
 - genre;
 - narrative device;
@@ -1424,9 +1445,14 @@ The discovery process is complete. Use the following model for future songs.
 ### Stage 1 — Source the idea
 
 Ideas may come from:
-- Aurelia's current life;
+- current family life;
 - evergreen childhood experiences;
+- parenting;
+- couple dynamics;
 - family comedy;
+- pets;
+- chores and household labor;
+- errands, meals, travel, school mornings, bedtime, and home routines;
 - emotional states;
 - imaginative premises;
 - animals or objects;
@@ -1436,19 +1462,26 @@ Ideas may come from:
 
 Current-life inspiration is useful but not required.
 
-### Stage 2 — Define the two-audience premise
+### Stage 2 — Choose the audience lane and define shared access
 
-Answer:
+Choose the song's primary audience lane:
+- **Child-centered**
+- **Whole-family / household-centered**
+- **Parent / couple-centered**
 
-**Child layer:** What does a 4–7-year-old immediately understand, feel, imagine, or enjoy?
+Then answer:
 
-**Adult layer:** What does an adult recognize, feel, remember, or appreciate?
+**Child access / layer:** What can a 4–7-year-old understand, enjoy, sing, imagine, or simply hear comfortably?
 
-Target approximately **50/50 family relevance**.
+**Adult center / layer:** What does an adult recognize, feel, remember, laugh at, or appreciate?
 
-A strong shorthand remains:
+Do not force approximately 50/50 relevance inside each song. Balance belongs primarily at catalog level.
 
-> Kids hear the story. Adults hear the second layer. Both should hear a good song.
+For adult-forward songs, advanced adult meaning may intentionally pass over the child's head. It still must satisfy the child-safe-access rule.
+
+A strong catalog shorthand is:
+
+> Some songs meet in the middle. Some lean. Everyone should still hear a good song.
 
 ### Stage 3 — Identify the underlying theme
 
@@ -1663,8 +1696,9 @@ Sparse, intentional inter-song cameos and motif callbacks are welcome.
 - **Working title:**
 - **Topic / premise:**
 - **Underlying theme:**
-- **Child layer:**
-- **Adult layer:**
+- **Audience lane:**
+- **Child access / child layer:**
+- **Adult center / adult layer:**
 - **Primary emotion:**
 - **Narrative mechanism:**
 - **Genre / style:**
@@ -1680,8 +1714,9 @@ Sparse, intentional inter-song cameos and motif callbacks are welcome.
 - **Working title:**
 - **Topic / premise:**
 - **Underlying theme:**
-- **Child layer:**
-- **Adult layer:**
+- **Audience lane:**
+- **Child access / child layer:**
+- **Adult center / adult layer:**
 - **Primary emotion:**
 - **Secondary emotion:**
 - **Narrative mechanism:**
@@ -1708,7 +1743,7 @@ Sparse, intentional inter-song cameos and motif callbacks are welcome.
 - **Emotional turn / payoff:**
 - **Potential cameo / callback:**
 - **Target length:**
-- **Developmental-fit notes:**
+- **Developmental-fit / child-safe-access notes:**
 - **Adult-repeatability notes:**
 - **Portfolio contribution:**
 - **Risk / guardrails:**
