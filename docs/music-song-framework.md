@@ -1036,7 +1036,6 @@ Recommended dimensions:
 - **Humor potential** — Does the premise naturally support comedy when appropriate?
 - **Replay value** — Is the concept likely to remain enjoyable after repeated listens?
 - **Distinctiveness** — Does it add something new to the catalog?
-- **Developmental fit** — Is the concept understandable and emotionally appropriate for the target age?
 - **Interpretive depth** — Can meaning deepen over repeated listens or changing perspective?
 - **Conversation value** — Might it naturally invite useful parent-child discussion?
 - **Age durability** — Can it retain or gain meaning as the listener grows?
@@ -1280,8 +1279,8 @@ Weights may shift depending on catalog needs and intended audience lane, but cor
 Some qualities should function as non-negotiable pass/fail gates rather than compensable scores.
 
 Hard gates:
-- developmental appropriateness;
-- non-patronizing treatment of the child audience;
+- developmental appropriateness / child-safe access appropriate to the chosen audience lane;
+- non-patronizing treatment of children as listeners;
 - musical credibility;
 - no unnecessary emotional suffering;
 - coherent artistic intent.
@@ -1350,8 +1349,8 @@ The purpose is not endless polishing. It is to catch material defects, preserve 
 #### Layer 1 — correctness / constraint QA
 
 Treat these as pass/fail:
-- developmental appropriateness;
-- non-patronizing treatment of the child audience;
+- developmental appropriateness / child-safe access appropriate to the chosen audience lane;
+- non-patronizing treatment of children as listeners;
 - fidelity to the approved song brief;
 - no contradictions across lyrics, instructions, and controls;
 - **one fact, one channel** with no unnecessary semantic duplication;
@@ -1368,7 +1367,7 @@ Pressure-test:
 - Is the hook memorable?
 - Does every section earn its space?
 - Can an abstract explanation become a stronger concrete image?
-- Is the adult layer discovered rather than over-explained?
+- Does the layering strategy fit the chosen audience lane, without explaining what the listener can discover naturally?
 - Is sentiment earned?
 - Does repetition evolve?
 - Does the narrator sound like a person rather than a writer explaining the concept?
@@ -1587,8 +1586,8 @@ Meaning may deepen over days or weeks rather than requiring immediate explanatio
 ### Stage 9 — Check hard gates
 
 A concept must pass:
-- developmental appropriateness;
-- respect / non-patronizing treatment;
+- developmental appropriateness / child-safe access appropriate to its audience lane;
+- respect / non-patronizing treatment of children as listeners;
 - musical credibility;
 - no unnecessary emotional suffering;
 - coherent artistic intent.
@@ -1598,11 +1597,13 @@ A concept must pass:
 Use a 1–5 scale.
 
 Highest-weight default dimensions:
-- child immediacy;
-- adult resonance;
+- audience-lane fit;
 - musical potential;
 - replay value;
-- developmental fit.
+- developmental appropriateness / child-safe access;
+- adult resonance.
+
+For child-centered and whole-family songs, child immediacy also carries high weight. For parent / couple-centered songs, it does not; the child-facing requirement is safe, comfortable access rather than equal thematic comprehension.
 
 Secondary dimensions:
 - emotional depth;
@@ -1656,13 +1657,13 @@ Repeat the full-package check after any material revision. Stop when no correctn
 ### Stage 14 — Listen and review
 
 Evaluate the actual result against:
-- the two-audience target;
+- the approved audience lane and intended balance of child / adult access;
 - emotional truth;
 - replay value;
 - clarity;
 - musical credibility;
 - arrangement effectiveness;
-- developmental fit;
+- developmental appropriateness / child-safe access;
 - adult repeatability;
 - whether the hook works;
 - whether any unresolvedness feels productive rather than burdensome;
@@ -1673,6 +1674,7 @@ Revise as needed.
 ### Stage 15 — Update the catalog
 
 Periodically inspect balance across:
+- audience lanes;
 - emotional modes;
 - genre;
 - narrative form;
