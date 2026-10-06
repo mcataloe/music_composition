@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Ending architecture revised; pre-generation QA complete; new baseline generation pending.
+**Stage:** Completed; final Suno version published.
 
 ## Governing framework
 
