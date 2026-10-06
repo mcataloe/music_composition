@@ -17,7 +17,7 @@ These stars are concept-priority heuristics, not final song-quality scores. When
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
 |---|---|---|---|---:|---|
 | **Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
-| **The Long Way Home** | Puddles, bugs, rocks, dogs, airplanes, flowers, and sidewalk discoveries keep interrupting the trip home. | Efficiency is not the same as living well; children notice what adults have trained themselves to walk past. | Wonder / storytelling | ★★★★★ | Backlog |
+| **The Long Way Home** | Puddles, bugs, rocks, dogs, airplanes, flowers, and sidewalk discoveries keep interrupting the trip home. | Efficiency is not the same as living well; children notice what adults have trained themselves to walk past. | Wonder / samba-jazz storytelling | ★★★★★ | In development |
 | **I Can Do It Myself** | Independence, confidence, and gloriously imperfect attempts to do everything without help. | Pride mixed with the quiet realization that a child is gradually needing less help. | Comedy + restrained emotional turn | ★★★★★ | Backlog |
 | **One More Question** | An endless stream of funny and genuinely interesting questions about how the world works. | Wonder mixed with exhaustion, plus the knowledge that this season of constant questions will end. | Curiosity + humor + restrained emotion | ★★★★★ | Backlog |
 | **Five More Minutes** | Five more minutes at the park, playing, being carried, or before bedtime. | Childhood itself is disappearing faster than the parent expects; eventually the parent is the one asking for five more minutes. | Emotional reversal | ★★★★★ | In development |
@@ -35,6 +35,22 @@ These stars are concept-priority heuristics, not final song-quality scores. When
 | **You Don't Have to Like Broccoli** | You are allowed to dislike a food even when someone else loves it. | Affection and belonging do not require identical preferences or forced agreement. | Lightly defiant / accepting | ★★★★☆ | Backlog |
 | **The Sock That Got Away** | A missing sock becomes a mock-serious escape story or mystery. | The eternal absurdity of laundry and the unexplained physics of disappearing socks. | Mystery / mock seriousness | ★★★★☆ | Backlog |
 | **Nobody Asked the Cat** | The family cat watches the household and has opinions nobody requested. | Family chaos looks very different through the eyes of a detached, unimpressed witness. | Character comedy / deadpan | ★★★★☆ | Backlog |
+
+## Active concept — The Long Way Home
+
+Discovery and the first generation package are complete.
+
+Canonical song-specific decisions now live in [**The Long Way Home**](songs/the-long-way-home.md).
+
+Catalog summary:
+- adult companion / parent point of view with gender-neutral family language;
+- child-forward sidewalk discoveries with a restrained adult time/attention layer;
+- samba-jazz at approximately 122 BPM;
+- jazz harmony with authentic-feeling samba rhythmic vocabulary;
+- simple title hook: **“We take the long way home / The long way home.”**
+- bridge reframes the supposedly inefficient walk;
+- final chorus changes **“we take”** to **“we'll take”** to make the long way an intentional choice;
+- short moon-at-the-driveway outro.
 
 ## Active concept — Dishes Come Back
 
