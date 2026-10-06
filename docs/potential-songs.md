@@ -1,6 +1,6 @@
 # Potential Songs
 
-This file is the canonical backlog and prioritization dossier for undeveloped and in-development song concepts in the Music Composition project.
+This file is the canonical multi-song backlog, prioritization, and catalog-status dossier for song concepts across backlog, development, and completed states in the Music Composition project.
 
 It is governed by [Music & Song Framework](music-song-framework.md). The framework owns reusable songwriting and scoring rules; this file owns the actual multi-song concept catalog, candidate notes, prioritization, and status.
 
@@ -31,14 +31,15 @@ Current catalog tendency:
 
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
 |---|---|---|---|---:|---|
-| **You Watched It Without Me** | One partner is dramatically devastated because the other watched the next episode of their shared show. | The strangely real etiquette of couple rituals, wildly disproportionate heartbreak, and one adult-readable but child-invisible double entendre. | Parent/couple comedy / dramatic soul heartbreak | ★★★★★ | Ready for generation |
+| **Friday Night** *(formerly **You Watched It Without Me**)* | One partner is dramatically devastated because the other watched the next episode of their shared show. | The strangely real etiquette of couple rituals, wildly disproportionate heartbreak, and one adult-readable but child-invisible double entendre. | Parent/couple comedy / dramatic soul heartbreak | ★★★★★ | Completed |
 | **Love Between the Raindrops** *(working title)* | A warm adult love song whose concrete surface is made of small moments inside ordinary busy days: a glance, a hand, a laugh after tension, a quiet return to each other. | Long-term affection is sustained less by grand gestures than by repeated small acts of attention and repair amid work stress, dumb arguments, plans that fail, disappointment, and ordinary life. | Parent/couple tenderness / observational love song | ★★★★★ | Backlog |
-| **Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
-| **Feed the Cats** | Callie and Capone mount a desperate campaign for their 7:00 PM wet-food dinner. | The absurd certainty of cats that a completely dependable feeding routine is an existential emergency. | Mock-serious domestic comedy / jazz samba | ★★★★★ | Ready for generation |
+| **Dishes Come Back** | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | Completed |
+| **Feed the Cats** | Callie and Capone mount a desperate campaign for their 7:00 PM wet-food dinner. | The absurd certainty of cats that a completely dependable feeding routine is an existential emergency. | Mock-serious domestic comedy / jazz samba | ★★★★★ | Completed |
+| **Woodpeckers Are the Best** | An enthusiastic, increasingly certain case that woodpeckers are obviously the best. | The delight of a child's spontaneous conviction, turned into a real song without sanding away its absurd certainty. | Pure Delight / child-forward acoustic comedy | — | Completed |
 | **The Long Way Home** | Puddles, bugs, rocks, dogs, airplanes, flowers, and sidewalk discoveries keep interrupting the trip home. | Efficiency is not the same as living well; children notice what adults have trained themselves to walk past. | Wonder / samba-jazz storytelling | ★★★★★ | In development |
 | **I Can Do It Myself** | Independence, confidence, and gloriously imperfect attempts to do everything without help. | Pride mixed with the quiet realization that a child is gradually needing less help. | Comedy + restrained emotional turn | ★★★★★ | Backlog |
 | **One More Question** | An endless stream of funny and genuinely interesting questions about how the world works. | Wonder mixed with exhaustion, plus the knowledge that this season of constant questions will end. | Curiosity + humor + restrained emotion | ★★★★★ | Backlog |
-| **Five More Minutes** | Five more minutes at the park, playing, being carried, or before bedtime. | Childhood itself is disappearing faster than the parent expects; eventually the parent is the one asking for five more minutes. | Emotional reversal | ★★★★★ | In development |
+| **Five More Minutes** | Five more minutes at the park, playing, being carried, or before bedtime. | Childhood itself is disappearing faster than the parent expects; eventually the parent is the one asking for five more minutes. | Emotional reversal | ★★★★★ | Completed |
 | **I'm Not Tired** | Increasingly ridiculous arguments proving bedtime is unnecessary. | The universally recognizable experience of negotiating with a tiny attorney who is visibly falling asleep. | Escalating comedy | ★★★★★ | Backlog |
 | **Today Was a Bad Day** | A day where seemingly everything goes wrong. | Not every difficult day needs a lesson, silver lining, or immediate repair; sometimes tomorrow is enough. | Emotional honesty | ★★★★☆ | Backlog |
 | **Maybe I'm Brave** | Being scared, trying anyway, and wondering whether that counts as bravery. | Courage as action in the presence of fear rather than the absence of it. | Reassuring / quietly triumphant | ★★★★☆ | Backlog |
@@ -54,11 +55,11 @@ Current catalog tendency:
 | **The Sock That Got Away** | A missing sock becomes a mock-serious escape story or mystery. | The eternal absurdity of laundry and the unexplained physics of disappearing socks. | Mystery / mock seriousness | ★★★★☆ | Backlog |
 | **Nobody Asked the Cat** | The family cat watches the household and has opinions nobody requested. | Family chaos looks very different through the eyes of a detached, unimpressed witness. | Character comedy / deadpan | ★★★★☆ | Backlog |
 
-## Active concept — You Watched It Without Me
+## Completed concept — Friday Night
 
-Discovery and the initial generation package are complete; the baseline generation is pending.
+The final Suno version is complete and published. The former working title was **You Watched It Without Me**.
 
-Canonical song-specific decisions now live in [**You Watched It Without Me**](songs/you-watched-it-without-me.md).
+Canonical song-specific decisions now live in [**Friday Night**](songs/you-watched-it-without-me.md).
 
 Catalog summary:
 - parent / couple-centered relationship comedy;
@@ -85,9 +86,9 @@ Catalog summary:
 - final chorus changes **“we take”** to **“we'll take”** to make the long way an intentional choice;
 - short moon-at-the-driveway outro.
 
-## Active concept — Dishes Come Back
+## Completed concept — Dishes Come Back
 
-Discovery is complete and the song has moved into active development.
+The final Suno version is complete and published.
 
 Canonical song-specific decisions now live in [**Dishes Come Back**](songs/dishes-come-back.md).
 
@@ -101,9 +102,9 @@ Catalog summary:
 - simple child-singable hook: **“The dishes come back / They always come back.”**
 - false-victory ending: clean sink, brief silence, *clink*, then **“They always come back.”**
 
-## Graduated / established concept
+## Completed / established concept
 
-[**Woodpeckers Are the Best**](songs/woodpeckers-are-the-best.md) has moved beyond the potential-song backlog into an established song dossier. It remains a useful reference point for Pure Delight / Moment Song comedy and child-forward acoustic songwriting.
+[**Woodpeckers Are the Best**](songs/woodpeckers-are-the-best.md) is complete and published. It remains a useful reference point for Pure Delight / Moment Song comedy and child-forward acoustic songwriting.
 
 ## Catalog maintenance
 
