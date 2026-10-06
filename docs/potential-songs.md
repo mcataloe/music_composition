@@ -25,13 +25,14 @@ Individual songs may lean strongly toward one audience. Periodically inspect the
 Current catalog tendency:
 - child-centered material is well represented;
 - whole-family / household material is emerging strongly through songs such as **Dishes Come Back** and **Feed the Cats**;
-- parent / couple-centered material is an intentionally open area for future concepts rather than a required percentage.
+- parent / couple-centered material is represented by relationship comedy and emerging tenderness, but remains lighter than the child-centered and whole-family lanes.
 
 ## Concept catalog
 
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
 |---|---|---|---|---:|---|
-| **You Watched It Without Me** | One partner is dramatically devastated because the other watched the next episode of their shared show. | The strangely real etiquette of couple rituals, wildly disproportionate heartbreak, and one adult-readable but child-invisible double entendre. | Parent/couple comedy / dramatic soul heartbreak | ★★★★★ | Ready for generation |\n| **Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
+| **You Watched It Without Me** | One partner is dramatically devastated because the other watched the next episode of their shared show. | The strangely real etiquette of couple rituals, wildly disproportionate heartbreak, and one adult-readable but child-invisible double entendre. | Parent/couple comedy / dramatic soul heartbreak | ★★★★★ | Ready for generation |
+| **Love Between the Raindrops** *(working title)* | A warm adult love song whose concrete surface is made of small moments inside ordinary busy days: a glance, a hand, a laugh after tension, a quiet return to each other. | Long-term affection is sustained less by grand gestures than by repeated small acts of attention and repair amid work stress, dumb arguments, plans that fail, disappointment, and ordinary life. | Parent/couple tenderness / observational love song | ★★★★★ | Backlog |\n| **Dishes Come Back** *(working title)* | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | In development |
 | **Feed the Cats** | Callie and Capone mount a desperate campaign for their 7:00 PM wet-food dinner. | The absurd certainty of cats that a completely dependable feeding routine is an existential emergency. | Mock-serious domestic comedy / jazz samba | ★★★★★ | Ready for generation |
 | **The Long Way Home** | Puddles, bugs, rocks, dogs, airplanes, flowers, and sidewalk discoveries keep interrupting the trip home. | Efficiency is not the same as living well; children notice what adults have trained themselves to walk past. | Wonder / samba-jazz storytelling | ★★★★★ | In development |
 | **I Can Do It Myself** | Independence, confidence, and gloriously imperfect attempts to do everything without help. | Pride mixed with the quiet realization that a child is gradually needing less help. | Comedy + restrained emotional turn | ★★★★★ | Backlog |
@@ -112,3 +113,7 @@ When a concept becomes an active song:
 4. move song-specific decisions, lyrics, generation directions, and listening history into the song dossier.
 
 When a new concept is added, capture enough information to distinguish its child layer, adult layer, primary mode, and likely catalog contribution before prioritizing it.
+
+### Backlog note — Love Between the Raindrops
+
+This concept expands the parent / couple lane beyond relationship comedy into sustained affection and emotional realism. Its center is not that love conquers adversity, but that an ordinary partnership is repeatedly maintained in the small spaces between obligations, frustrations, disappointments, and imperfect repair. Preserve mutuality and tenderness; avoid romanticizing mistreatment, forced gratitude, or making every hardship resolve neatly.
