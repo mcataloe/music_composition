@@ -14,7 +14,7 @@ Governed by [Music & Song Framework](../music-song-framework.md).
 - **Callie:** Female; anxious, active, hungry, attention-seeking, lap cat; the organized ringleader of the feeding campaign.
 - **Capone:** Male; very sweet, blind, older and somewhat cognitively confused. His age/blindness are treated affectionately and behaviorally, never as the punchline. He joins Callie's cause with sweet, slightly delayed solidarity.
 - **Feeding ritual:** 7:00 PM wet food.
-- **Musical direction:** Driving 1960s-inspired jazz samba rather than sleepy bossa nova.
+- **Musical direction:** Smooth, intimate jazz samba with a relaxed Brazilian pulse; elegant and close-miked rather than high-energy.
 - **Lead vocal:** Warm, dry, understated male lead.
 - **Hook/title:** **Feed the Cats**.
 - **Recurring human rebuttal:** **“It’s not seven yet.”**
@@ -29,12 +29,12 @@ Governed by [Music & Song Framework](../music-song-framework.md).
 - **Adult layer:** Pet owners recognize the endless pre-meal lobbying despite years of evidence that dinner always comes.
 - **Primary emotion:** Mock-serious comedy.
 - **Narrative mechanism:** Human narrator vs. cat chorus; escalating countdown to dinner.
-- **Genre / style:** Driving jazz samba / samba-jazz.
+- **Genre / style:** Smooth intimate jazz samba / samba-jazz.
 - **Hook:** “Feed the cats.”
 - **Vocal approach:** Dry, intimate male lead; short cat-chorus responses.
-- **Ensemble / sound:** Nylon-string guitar, jazz piano, upright bass, brushed drums, light Brazilian percussion, occasional muted trumpet or flute.
-- **Texture / timbre:** Warm, woody, live-room, rhythmically buoyant, cool rather than cartoonish.
-- **Target length:** ~2:35.
+- **Ensemble / sound:** Nylon-string guitar, soft jazz piano, upright bass, brushed drums, very light Brazilian percussion, occasional breathy flute or muted trumpet.
+- **Texture / timbre:** Warm, close, woody, spacious, softly buoyant, and cool rather than cartoonish.
+- **Target length:** ~2:45.
 - **Key guardrails:** Do not make blindness, age, or cognitive decline the joke. Avoid novelty-kids-music affect. Keep the samba authentic enough to feel like music first and comedy second.
 
 ## Lyrics
@@ -140,20 +140,20 @@ Feed the cats.
 
 ### Style / production instructions
 
-**Character count: 768**
+**Character count: 777**
 
-Driving 1960s-inspired jazz samba, cool and sophisticated rather than cartoonish. Nylon-string guitar on syncopated samba comping, acoustic piano with tasteful jazz voicings, upright bass, brushed kit plus light shaker/pandeiro/agogô, and occasional muted trumpet or flute fills. Warm, dry, intimate lead with deadpan conversational phrasing; short backing-vocal responses should make the cats feel like an increasingly urgent little chorus. Use authentic samba-jazz harmony: maj6/9 colors, ii–V motion, secondary dominants, and a brief darker turn in the bridge before resolving at seven. Keep verses sly and restrained, let choruses open slightly, then relax when the bowls hit the floor. Natural live-room feel, human timing, elegant rather than novelty-kids-music.
+Smooth, intimate jazz samba with a relaxed Brazilian pulse, elegant and close rather than high-energy. Nylon-string guitar with soft syncopated comping, warm jazz piano, upright bass, brushed drums, and very light shaker/pandeiro; occasional breathy flute or muted trumpet fills. Keep the groove steady, supple, and understated. Warm, dry, close lead vocal with deadpan conversational phrasing; cat responses should be soft, wry backing vocals rather than shouted comedy. Use rich samba-jazz harmony with maj6/9 colors, ii–V motion, secondary dominants, and a brief darker bridge. Let choruses widen harmonically without getting louder. Preserve space between lines, especially at 6:59 and before the final tag. Natural live-room feel, human timing, sophisticated and intimate.
 
 ### Generation controls
 
 - **Vocal Gender:** Male
-- **Duration:** Custom — ~2:35
+- **Duration:** Custom — ~2:45
 - **Max Mode:** On
-- **Weirdness:** 22
-- **Style Influence:** 82
-- **Variety:** Low–medium (~25)
+- **Weirdness:** 18
+- **Style Influence:** 85
+- **Variety:** Low (~20)
 - **Personalize:** Off
-- **Rationale:** High style fidelity and restrained weirdness should preserve the intended jazz-samba groove and deadpan narrative. Low–medium variety allows phrasing and instrumental spontaneity without sacrificing the character comedy or formal arc.
+- **Rationale:** Higher style fidelity, lower weirdness, and lower variety should keep Suno from pushing the arrangement toward a brighter or more energetic samba. The baseline should stay smooth, intimate, spacious, and deadpan while preserving enough jazz flexibility for natural phrasing.
 
 ## Pre-generation QA
 
