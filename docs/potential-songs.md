@@ -12,6 +12,21 @@ The repository preserved the five leading concepts as **very high potential**, c
 
 These stars are concept-priority heuristics, not final song-quality scores. When choosing what to develop next, use the framework's current hard gates and weighted scoring model.
 
+## Audience-lane portfolio diagnostic
+
+Use the audience lanes defined in [Music & Song Framework](music-song-framework.md) as a **portfolio diagnostic**, not a quota:
+
+- **Child-centered**
+- **Whole-family / household-centered**
+- **Parent / couple-centered**
+
+Individual songs may lean strongly toward one audience. Periodically inspect the catalog to make sure the body of work still serves children and adults together across the project as a whole.
+
+Current catalog tendency:
+- child-centered material is well represented;
+- whole-family / household material is emerging strongly through songs such as **Dishes Come Back** and **Feed the Cats**;
+- parent / couple-centered material is an intentionally open area for future concepts rather than a required percentage.
+
 ## Concept catalog
 
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
