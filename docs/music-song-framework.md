@@ -1790,12 +1790,14 @@ Keep QA findings, rationale, and commentary outside the copy/edit blocks unless 
    - **Weirdness:** recommended value
    - **Style Influence:** recommended value
    - **Audio Influence:** N/A when no audio reference/input is active; otherwise recommend a value appropriate to how strongly the generation should follow that audio source.
-   - **Variety:** recommended level / value
+   - **Variety:** Off / Normal / High / Very High / Max
    - **Personalize:** On / Off
    - **Rationale:** brief explanation of why these settings fit the song
    - Controls own these decisions; do not echo them elsewhere unless a distinction is musically necessary.
    - Use **Exclude Styles** for negative constraints when possible rather than spending positive style-prompt space saying what not to do.
    - Treat **Audio Influence** as source-audio conditioning strength, not as a universal musical parameter; its practical effect depends on the active audio source and generation workflow.
+   - For current Suno v6, use only the UI's named **Variety** levels: **Off, Normal, High, Very High, Max**. Do not invent intermediate labels.
+   - Because Variety above Off may adjust or rewrite the supplied style prompt, use **Off** as the default baseline when the Style field has been deliberately engineered for fidelity. Raise Variety intentionally for exploration after the baseline is established.
 
 4. **De-duplication check**
    - Compare the style instructions, lyrics, and controls before delivery.
@@ -1813,7 +1815,7 @@ Keep QA findings, rationale, and commentary outside the copy/edit blocks unless 
 
 6. **Generation strategy**
    - Establish a **baseline generation** that favors fidelity to the intended song before exploring.
-   - For a deliberate brief, generally bias Style Influence upward and Variety downward for the baseline.
+   - For a deliberate, engineered Style brief, generally bias Style Influence upward and set Variety to **Off** for the baseline so the supplied style direction is preserved as closely as possible.
    - Reduce Weirdness when narrative and emotional coherence matter more than surprise; increase it only intentionally.
    - Keep Personalize off for a neutral baseline unless importing the user's established taste is part of the experiment.
    - Use Max Mode when the song's length or consistency needs justify it.
