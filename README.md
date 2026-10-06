@@ -26,6 +26,7 @@ Child-specific parenting, developmental, household, or biographical material bel
 - `docs/songs/five-more-minutes.md` — dossier for **Five More Minutes**.
 - `docs/songs/dishes-come-back.md` — dossier for **Dishes Come Back**.
 - `docs/songs/woodpeckers-are-the-best.md` — dossier for **Woodpeckers Are the Best**.
+- `docs/songs/the-long-way-home.md` — dossier for **The Long Way Home**.
 
 ## Domain boundary
 
