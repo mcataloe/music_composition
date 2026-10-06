@@ -1,12 +1,14 @@
-# You Watched It Without Me
+# Friday Night
 
 ## Status
 
-**Stage:** Initial generation package ready; pre-generation QA complete; baseline generation pending.
+**Stage:** Completed; final Suno version published.
+
+**Former working title:** You Watched It Without Me
 
 ## Governing framework
 
-This song is developed under the repository's [Music & Song Framework](../music-song-framework.md). This file is the song-specific source of truth for **You Watched It Without Me**.
+This song is developed under the repository's [Music & Song Framework](../music-song-framework.md). This file is the song-specific source of truth for **Friday Night**.
 
 ## Concept
 
@@ -18,8 +20,8 @@ The song treats the offense with wildly disproportionate musical seriousness. Ch
 
 ## Full Song Brief
 
-### Working title
-**You Watched It Without Me**
+### Final title
+**Friday Night**
 
 ### Topic / premise
 A couple has a show they watch together. One partner watches ahead.
