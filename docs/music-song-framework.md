@@ -1756,6 +1756,16 @@ Sparse, intentional inter-song cameos and motif callbacks are welcome.
 
 After the artistic brief is complete, produce a generator-specific execution package. Tool settings belong here rather than inside the artistic brief so the framework remains portable across generators.
 
+### Initial-generation response format
+
+When the user asks for **lyrics for an initial generation**, present the generator-ready package in this order:
+
+1. **Lyrics** — in a copy/edit block.
+2. **Style / production instructions** — in a separate copy/edit block.
+3. **Generation config** — in a table.
+
+Keep QA findings, rationale, and commentary outside the copy/edit blocks unless the user explicitly asks for them inside. This presentation rule applies to initial-generation lyric requests; later revisions may use the minimum output needed unless the user requests the full package again.
+
 #### Suno output
 
 1. **Style / production instructions**
