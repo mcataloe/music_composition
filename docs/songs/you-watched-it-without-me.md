@@ -335,7 +335,7 @@ I said the middle dragged a little
 That didn't mean “go ahead”  
 You knew exactly where we'd left it  
 You knew I hadn't seen  
-What happened after that last scene  
+What came after that cliffhanger  
 Don't put this one on me  
 
 [Chorus]
