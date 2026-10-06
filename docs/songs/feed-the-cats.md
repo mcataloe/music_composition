@@ -4,6 +4,10 @@
 
 Governed by [Music & Song Framework](../music-song-framework.md).
 
+## Origin / provenance
+
+This song was requested by the user's daughter, who wanted a song about feeding the family cats, Callie and Capone.
+
 ## Discovery decisions
 
 - **Premise:** Callie and Capone behave as though the household is facing a feeding emergency in the minutes before their reliable 7:00 PM wet-food dinner.
