@@ -56,7 +56,7 @@ And marches to the kitchen with a plan
 She circles both my ankles, checks the counter  
 Then circles back to make sure I understand  
 She stares at me, then stares toward the mat  
-As if the situation speaks for that  
+Her case is clearly stronger than the facts  
 I say, “Dinner's at seven.”  
 She says, “Feed the cats.”
 
@@ -77,8 +77,8 @@ Feed the cats
 
 Capone hears the campaign down the hall  
 And takes his time arriving at the scene  
-He missed the opening points of the discussion  
-But backs the whole proposal, calm and keen  
+He missed the opening half of the discussion  
+But joins because his sister sounds sincere  
 He takes his place beside her on the mat  
 A sweet old statesman nodding at the facts  
 I say, “You both had breakfast.”  
@@ -139,6 +139,8 @@ Feed the cats.
 ## Suno baseline package
 
 ### Style / production instructions
+
+**Character count: 768**
 
 Driving 1960s-inspired jazz samba, cool and sophisticated rather than cartoonish. Nylon-string guitar on syncopated samba comping, acoustic piano with tasteful jazz voicings, upright bass, brushed kit plus light shaker/pandeiro/agogô, and occasional muted trumpet or flute fills. Warm, dry, intimate lead with deadpan conversational phrasing; short backing-vocal responses should make the cats feel like an increasingly urgent little chorus. Use authentic samba-jazz harmony: maj6/9 colors, ii–V motion, secondary dominants, and a brief darker turn in the bridge before resolving at seven. Keep verses sly and restrained, let choruses open slightly, then relax when the bowls hit the floor. Natural live-room feel, human timing, elegant rather than novelty-kids-music.
 
