@@ -1,6 +1,6 @@
 # Feed the Cats
 
-**Status:** Discovery complete; baseline Suno package ready for generation.
+**Status:** Completed; final Suno version published.
 
 Governed by [Music & Song Framework](../music-song-framework.md).
 
