@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** First Suno render reviewed; revised lyrics QA-cleared for next generation.
+**Stage:** Completed; final Suno version published.
 
 ## Governing framework
 
