@@ -124,7 +124,7 @@ This concept expands the parent / couple lane beyond relationship comedy into su
 
 ### Backlog note — Autumn Leaves
 
-This concept adds a seasonal whole-family tenderness lane grounded in actual family attachment to autumn rather than generic fall imagery. The season can hold changing leaves and familiar rituals on the child-facing surface while the adult layer carries anniversaries, birthdays, shared history, recurrence, and time passing. Preserve specificity and lived detail; avoid turning it into a list of fall clichés or explaining every family milestone literally.
+This concept adds a seasonal whole-family tenderness lane grounded in actual family attachment to autumn rather than generic fall imagery. Autumn is one of Matt and Jenna's favorite seasons, and it carries both their anniversary and Matt's birthday. The season can hold changing leaves and familiar rituals on the child-facing surface while the adult layer carries shared history, recurrence, and time passing. Preserve specificity and lived detail; avoid turning it into a list of fall clichés or explaining every family milestone literally.
 
 ### Backlog note — Eat the Rainbow
 
