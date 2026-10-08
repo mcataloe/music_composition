@@ -43,6 +43,7 @@ Current catalog tendency:
 | **Five More Minutes** | Five more minutes at the park, playing, being carried, or before bedtime. | Childhood itself is disappearing faster than the parent expects; eventually the parent is the one asking for five more minutes. | Emotional reversal | ★★★★★ | Completed |
 | **I'm Not Tired** | Increasingly ridiculous arguments proving bedtime is unnecessary. | The universally recognizable experience of negotiating with a tiny attorney who is visibly falling asleep. | Escalating comedy | ★★★★★ | Backlog |
 | **Eat the Rainbow** *(working title)* | Trying foods of different colors becomes a playful food adventure: one bite, one color, one small brave try at a time. | Helping a child become more willing to explore unfamiliar foods without turning eating into pressure, virtue, or a lecture about nutrition. | Child-centered food adventure / playful courage | ★★★★☆ | Backlog |
+| **Get the Bath Ready** *(for Aurelia; working title)* | TBD — bath-time concept placeholder. | TBD — subtext intentionally deferred. | TBD | — | Backlog |
 | **Today Was a Bad Day** | A day where seemingly everything goes wrong. | Not every difficult day needs a lesson, silver lining, or immediate repair; sometimes tomorrow is enough. | Emotional honesty | ★★★★☆ | Backlog |
 | **Maybe I'm Brave** | Being scared, trying anyway, and wondering whether that counts as bravery. | Courage as action in the presence of fear rather than the absence of it. | Reassuring / quietly triumphant | ★★★★☆ | Backlog |
 | **Dad Can't Find His Keys** | An increasingly ridiculous household search for something ordinary. | The comedy of a supposedly competent adult being completely defeated by a tiny object. | Escalating domestic comedy | ★★★★☆ | Backlog |
@@ -129,3 +130,7 @@ This concept adds a seasonal whole-family tenderness lane grounded in actual fam
 ### Backlog note — Eat the Rainbow
 
 This concept adds a child-centered bravery song through the concrete experience of trying foods in many colors. The song should make curiosity, choice, and a small brave taste feel playful rather than medicinal or instructional. Avoid "good food / bad food" moralizing, clean-plate pressure, nutrition lecturing, or implying that courage requires liking the food after trying it.
+
+### Backlog note — Get the Bath Ready
+
+Placeholder concept for Aurelia. Preserve only the title/premise for now; child layer, adult subtext, mode, and development direction are intentionally deferred until a later Discovery session.
