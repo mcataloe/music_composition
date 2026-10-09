@@ -183,3 +183,132 @@ Smooth, intimate jazz samba with a relaxed Brazilian pulse, elegant and close ra
 - Coherent artistic intent: PASS
 - Lyrics/style/controls de-duplicated: PASS
 - Suno style instructions under 1,000 characters: PASS
+
+## French adaptation — Servez les chats (draft for generation)
+
+**Status:** French-language adaptation approved as a separate version; not yet generated or listening-reviewed. The English published original above is unchanged.
+
+**Adaptation intent:** Retain the Callie/Capone 7:00 PM story, dry mock-serious comedy, circular punchline, and smooth intimate Brazilian jazz-samba character. The title *Servez les chats* gives the cats' demands an intentionally pompous, formal register. Natural French phrasing takes priority over literal syllable-for-syllable translation.
+
+### French lyrics
+
+#### [Intro]
+
+Six heures quarante-trois.
+
+Callie dit : « C'est l'heure. »
+
+Je dis : « Le dîner, c'est à sept heures. »
+
+Elle dit—
+
+#### [Verse 1]
+
+À six heures quarante-trois, Callie quitte mes genoux  
+Et file à la cuisine, très sûre de son coup  
+Elle tourne à mes pieds, inspecte le comptoir  
+Puis revient vérifier que j'ai compris l'histoire  
+Elle me fixe, puis regarde ses gamelles  
+Son dossier est solide, du moins selon elle  
+Je dis : « Le dîner, c'est à sept heures. »  
+Elle dit : « Servez les chats. »
+
+#### [Chorus]
+
+Servez les chats  
+Servez les chats  
+C'est une urgence, n'attendez pas  
+Servez les chats  
+Servez les chats  
+Les preuves sont là, ne discutez pas  
+Je dis : « Il n'est pas sept heures. »  
+Ils disent : « C'est quoi, cette réponse-là ? »  
+Servez les chats  
+Servez les chats
+
+#### [Verse 2]
+
+Capone entend l'appel du bout du couloir  
+Il arrive à son rythme, sans trop savoir  
+Il a manqué le début des négociations  
+Mais Callie a l'air sûre, il lui donne raison  
+Il prend place à ses côtés, sur le tapis  
+Doux diplomate, qui l'approuve sans un bruit  
+Je dis : « Vous avez mangé ce matin ! »  
+Ils disent : « Servez les chats. »
+
+#### [Chorus]
+
+Servez les chats  
+Servez les chats  
+C'est une urgence, n'attendez pas  
+Servez les chats  
+Servez les chats  
+Les preuves sont là, ne discutez pas  
+Je dis : « Il n'est pas sept heures. »  
+Ils disent : « C'est quoi, cette réponse-là ? »  
+Servez les chats  
+Servez les chats
+
+#### [Bridge]
+
+Six heures cinquante et une : elle revient  
+Cinquante-quatre : elle ne lâche rien  
+Cinquante-six : on frôle le drame  
+Cinquante-huit : Capone réclame
+
+À six heures cinquante-neuf, grand silence  
+Deux petites têtes se tournent vers moi  
+L'horloge marque sept heures  
+Deux cuillères raclent  
+Les gamelles se posent  
+Et le calme revient dans la maison
+
+#### [Final Chorus]
+
+Servez les chats  
+Servez les chats  
+Le repas est posé, tout en bas  
+Servez les chats  
+Servez les chats  
+L'ordre du monde est rétabli, voilà  
+Plus besoin de dire : « Il n'est pas sept heures. »  
+Plus besoin de discuter de ça  
+Servez les chats  
+Servez les chats
+
+#### [Outro]
+
+Quarante-cinq secondes.
+
+Callie lève la tête.
+
+Je dis : « Quoi ? »
+
+Elle dit—
+
+Servez les chats.
+
+### French Suno style / production instructions
+
+**Character count:** 773
+
+Smooth, intimate jazz samba with an authentic relaxed Brazilian pulse and a subtle French chanson-jazz storytelling sensibility. Nylon-string guitar syncopations, warm jazz piano, upright bass, brushed drums, discreet shaker/pandeiro, occasional breathy flute or muted-trumpet fills. Soft, spacious live-room sound and a supple, unhurried groove. Warm, close, understated French diction and deadpan conversational phrasing; suggest the cats' replies through slight character shading by the single lead singer, never a theatrical duet. Rich samba-jazz harmony (major 6/9, ii–V motion, secondary dominants), with a briefly darker bridge. Let choruses broaden harmonically rather than become louder. Leave generous space after the clock reaches seven and before the final tag.
+
+### French Suno generation controls
+
+- **Exclude Styles:** novelty-kids music, cartoon voices, high-energy samba, EDM, bombastic brass
+- **Vocal Gender:** Male
+- **Duration:** Custom — target ~3:00; let French phrasing breathe
+- **Max Mode:** On
+- **Weirdness:** 18
+- **Style Influence:** 85
+- **Audio Influence:** N/A without audio input. If the published English track is supplied as an audio reference, trial ~70 and listen for French phrase fit.
+- **Variety:** Off
+- **Personalize:** Off
+
+**Generation approach:** Treat as a separate French-language arrangement, not a replacement of the published English version. For a faithful remake with source audio, compare against a clean text-only baseline.
+
+### Pre-generation QA
+
+**Result: CONDITIONAL PASS.** Narrative arc, humor, character treatment, single-lead approach, prompt length, and separation of lyrics/style/controls pass review. Test in generation: idiomatic French stress and sung syllable lengths, especially the intro, Verse 1, repeated chorus, countdown, and final tag; natural French pronunciation; whether the samba stays intimate and rhythmically convincing. Listening review is required before marking this version completed.
