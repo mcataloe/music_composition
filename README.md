@@ -26,6 +26,7 @@ Child-specific parenting, developmental, household, or biographical material bel
 
 - `docs/project-directions.md` — project operating rules, source-of-truth hierarchy, QA, Discovery, Materiality Gate, and repository lifecycle.
 - `docs/music-song-framework.md` — governing creative framework, discovery map, quality gates, scoring model, and generation/review workflow.
+- `docs/meaning-architecture-examples.md` — non-exhaustive creative idea bank illustrating ways songs can create or decline deeper meaning.
 - `docs/potential-songs.md` — canonical multi-song concept backlog, candidate table, prioritization, and status.
 - `docs/songs/five-more-minutes.md` — dossier for **Five More Minutes**.
 - `docs/songs/dishes-come-back.md` — dossier for **Dishes Come Back**.
