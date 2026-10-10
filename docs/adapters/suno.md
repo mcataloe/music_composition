@@ -26,6 +26,8 @@ For an instrumental Suno generation, adapt the format rather than inventing lyri
 - **Variety:** **Off, Normal, High, Very High, Max** — *the five named categories observed in the source workflow*. Do not invent an intermediate category.
 - **Personalize:** On / Off as appropriate.
 
+The source campaign's earlier Suno workflow planned around one principal lead singer per generation because reliable multi-singer casting was limited. This is a **version- and workflow-dependent observation**, not a universal rule; check current capabilities before enforcing it.
+
 Some controls are conditional and tool versions change. Treat this list as a dated working adapter, **not** a claim about a guaranteed live UI. Check the available interface before presenting exact values that could have changed.
 
 ## Prompt translation
