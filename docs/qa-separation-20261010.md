@@ -8,9 +8,9 @@
 - The private campaign import [PR #1](https://github.com/mcataloe/music_campaign/pull/1) **merged** (commit `e31ec03001547afaf29dd871b817c8d11c97e420`).
 - All **eight** song dossiers and the original song backlog match source commit `37e7838a535f00b57782bec6462d9e092c1bbbcb` by **both content equality and Git blob SHA**. The original full `docs/music-song-framework.md` was also copied, with matching blob SHA, to the private archival path.
 - The special-purpose application song *Before the First Note* was correctly kept outside the family-song backlog, as originally decided.
-- The public refactor branch contains **no active song dossiers or song catalog**; deletion was performed only after the private destination was successfully copied and verified.
-- The public draft contains separate CC BY 4.0 documentation and MIT software license notices, scoped to current files and explicitly excluding original campaign creative work.
-- Public framework working-tree links were validated with **38 relative links, zero broken** in the initial final refactor audit. The private import has active links resolving; **seven historical links** in the exact archived framework snapshot are intentionally stale due to its relocated directory and are explicitly documented in `archive/README.md`. The archive itself is not edited to preserve its original Git blob SHA.
+- The public `main` tree contains **no active song dossiers or song catalog**; deletion was performed only after the private destination was successfully copied and verified. [Composition PR #1](https://github.com/mcataloe/music_composition/pull/1) merged at `8ad4b65359af7dc7af9e9c600122b7bb599ba47f`.
+- The public framework current tree contains separate CC BY 4.0 documentation and MIT software license notices, scoped to current files and explicitly excluding original campaign creative work.
+- Public framework current-tree links were validated with **42 relative links, zero broken** at the premerge release audit (including the QA document and contributor guide). The private import has active links resolving; **seven historical links** in the exact archived framework snapshot are intentionally stale due to its relocated directory and are explicitly documented in `archive/README.md`. The archive itself is not edited to preserve its original Git blob SHA.
 
 ## Ruleset synchronization and de-duplication
 
@@ -40,7 +40,7 @@ These are **document/semantics tests**, not claims that external audio generatio
 
 - **Existing public Git history still exposes previous campaign content.** Removing files from the latest branch does not erase prior commits, clones or cached copies. History rewriting was not authorized.
 - Documentation attribution and software license scopes are stated, but no independent legal review was performed. Do not interpret licensing as granting rights in third-party materials.
-- No tagged release currently exists. Do **not** label the refactor as a tagged version until a tag/release is actually created. Campaign dependency should be pinned to an immutable merged commit in the meantime.
+- No tagged release currently exists. The private campaign **is pinned to the immutable reviewed framework merge commit** `8ad4b65359af7dc7af9e9c600122b7bb599ba47f` through its `docs/framework-dependency.md`. Do **not** claim this is a named or tagged release.
 - Tool UIs can change. Recheck Suno limits before relying on an adapter's dated observations.
 
-**Outcome:** **PASS** for migrated file integrity and staged architecture/document-link/ruleset synchronization checks; **CONDITIONAL PASS** for full release readiness pending public PR merge, subsequent immutable dependency pin and any separately desired history remediation. A tagged release remains outstanding and is not falsely claimed.
+**Outcome:** **PASS** for migrated file integrity, approved architecture, document-link checks, ruleset synchronization, both merged PRs and immutable campaign dependency pin. **CONDITIONAL PASS** for the separately desired formal tagged release, external tool/version testing and any historical-privacy remediation (not performed). A public-history rewrite is not represented as necessary for the working-tree split or as already authorized.
