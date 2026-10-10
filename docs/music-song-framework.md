@@ -75,7 +75,7 @@ Stronger premise:
 
 The second can still explore disappointment, friendship, fairness, and repair without announcing the lesson.
 
-### Rule 2 — Concrete beats abstract
+### Rule 2 — Specificity and intentional abstraction
 Prefer:
 - a puddle;
 - a missing sock;
@@ -89,7 +89,7 @@ over abstract concepts such as:
 - disappointment;
 - mindfulness.
 
-The abstract meaning can emerge from the concrete event.
+The abstract meaning can emerge from a concrete event, **when deeper meaning is intended**. But abstraction, surrealism, and association are legitimate artistic choices; they need not be converted into literal images or explained as lessons.
 
 ### Rule 3 — Match the layering strategy to the audience lane
 
@@ -149,8 +149,35 @@ The framework should eventually allow a song to be deliberately designed across 
 - observation about childhood;
 - seasonal or situational topic.
 
+### A1. Architecture of Meaning — independent creative dimension
+
+This dimension asks **what a song is doing with its subject and its listener**, independently of topic, audience, narrative form, musical structure, or genre. It is a flexible creative vocabulary, not a compulsory label, ranking, or quota.
+
+Consider three independent axes:
+- **Artistic intention:** reveal, observe, celebrate, remember, express, question, amuse, immerse, or play.
+- **Relationship to meaning:** direct, symbolic/layered, associative, ambiguous, listener-generated, or intentionally without further subtext.
+- **Listener invitation:** understand, notice, feel, imagine, laugh, participate, contemplate, or simply enjoy.
+
+Illustrative approaches (not exclusive categories):
+- **Symbolic/layered** — concrete material carries another idea.
+- **Pure observation** — particulars are sufficient.
+- **Experiential/sensory** — a sensation, setting, or mood is inhabited.
+- **Playful/absurdist** — exaggeration, absurd logic, and nonsense are the pleasure.
+- **Dramatic/character-driven** — behavior or interaction sustains interest.
+- **Direct emotional** — a feeling is expressed openly.
+- **Exploratory/questioning** — inquiry need not resolve.
+- **Associative/impressionistic** — images or thoughts evoke rather than explain.
+- **Linguistic/musical play** — rhythm, words, sound, or repetition can be sufficient.
+- **Documentary/remembrance** — a moment is worth preserving without added interpretation.
+
+**Practice:** In Discovery, actively offer a small number of genuinely different approaches when the alternatives could materially open the concept. Selecting an approach upfront is optional; it may emerge, blend with others, or change during writing. Don't demand an underlying theme, metaphor, plot, emotional turn, or interpretation when the song doesn't call for one. Listeners may discover meaning that the author never encoded. An author-directed meaning is equally legitimate when intentional.
+
+**Boundary:** Abstract, experimental, impressionistic, and surreal writing may be nonliteral and nonnarrative, but should offer a perceptible emotional, sensory, comic, or musical foothold for its intended audience. Existing child-safe access, musical credibility, and artistic quality standards remain in force.
+
+**Evaluation:** Judge success against the song's chosen or emerging artistic intention, not a universal requirement for layered meaning, dramatic progression, subtext, or revelation. Architecture variety is an opportunity and catalog diagnostic, not a song-level constraint.
+
 ### B. Thematic Layer
-What the song is *really* exploring underneath the surface:
+When a deeper thematic layer is intended, possibilities include:
 - curiosity;
 - autonomy;
 - courage;
@@ -517,7 +544,7 @@ This model is intentionally broad at this stage. It should be simplified after d
 
 ## 6. Current Hypothesis
 
-The strongest catalog will probably **vary musical style more than thematic philosophy**.
+The strongest catalog can vary **both musical style and architecture of meaning**, while maintaining a recognizable songwriting philosophy.
 
 Stable identity may come from:
 - respect for children as listeners even when they are not the song's subject;
@@ -528,7 +555,7 @@ Stable identity may come from:
 - flexible use of child, household, parent, and couple perspectives;
 - high replay value for the household as a whole.
 
-Individual songs should then be free to sound substantially different from one another.
+Individual songs should be free to sound different and to create meaning—or immediate pleasure—in different ways.
 
 This hypothesis should be pressure-tested during creative discovery.
 
@@ -880,9 +907,9 @@ Instead:
 
 A child should be able to enjoy the song before fully knowing every word.
 
-### Metaphor: concrete first, with room for delayed discovery
+### Metaphor: concrete first when metaphor is chosen
 
-Figurative language is encouraged when it remains developmentally reachable.
+Figurative language is encouraged when it serves the song and remains developmentally reachable. Do not add metaphor solely because it is available.
 
 Prefer metaphors grounded in:
 - body sensations;
@@ -902,7 +929,7 @@ The goal is not immediate decoding. It is age-appropriate discovery.
 
 ### Repetition with evolution
 
-Repetition is useful for memorability, participation, and emotional reinforcement, but should not become static.
+Repetition is useful for memorability, participation, and emotional reinforcement. It may evolve, or remain intentionally static when recurrence or incantation is the artistic point.
 
 Prefer repeated elements that evolve through:
 - changed surrounding lyrics;
@@ -935,7 +962,7 @@ The framework should normalize the idea that multiple perspectives can be:
 - enjoyable;
 - worth discussing.
 
-Ambiguity should create imaginative space, not basic comprehension failure.
+When chosen, ambiguity should create imaginative space rather than merely confusing the intended listener. Directness is equally valid.
 
 ### Layered references
 
@@ -1036,7 +1063,7 @@ Recommended dimensions:
 - **Humor potential** — Does the premise naturally support comedy when appropriate?
 - **Replay value** — Is the concept likely to remain enjoyable after repeated listens?
 - **Distinctiveness** — Does it add something new to the catalog?
-- **Interpretive depth** — Can meaning deepen over repeated listens or changing perspective?
+- **Interpretive depth (when relevant)** — Can intended meaning deepen over repeated listens or changing perspective? Do not penalize songs that intentionally need no subtext.
 - **Conversation value** — Might it naturally invite useful parent-child discussion?
 - **Age durability** — Can it retain or gain meaning as the listener grows?
 - **Portfolio contribution** — Does it fill a currently underrepresented emotional, musical, thematic, or structural space?
@@ -1366,10 +1393,12 @@ A failure here must be fixed before generation.
 Pressure-test:
 - Is the hook memorable?
 - Does every section earn its space?
-- Can an abstract explanation become a stronger concrete image?
-- Does the layering strategy fit the chosen audience lane, without explaining what the listener can discover naturally?
+- Does the song succeed against its own intended or emerging artistic experience?
+- Where concrete specificity is the goal, can generic explanation become a stronger image? Where abstraction is the goal, is it being preserved rather than gratuitously decoded?
+- If layered meaning is intended, can listeners discover it without overexplaining? If not, have we resisted unnecessary subtext or emotional turns?
+- For experimental work, is there a perceptible foothold for its intended audience?
 - Is sentiment earned?
-- Does repetition evolve?
+- Does repetition behave as intended, evolving when useful or deliberately remaining stable?
 - Does the narrator sound like a person rather than a writer explaining the concept?
 - Do rhyme, meter, and diction serve natural language rather than force it?
 - Is any line repeating meaning the listener already understands?
@@ -1482,13 +1511,11 @@ A strong catalog shorthand is:
 
 > Some songs meet in the middle. Some lean. Everyone should still hear a good song.
 
-### Stage 3 — Identify the underlying theme
+### Stage 3 — Explore the architecture of meaning; identify a theme if needed
 
-Separate:
-- **topic** — what literally happens;
-- **theme** — what human experience sits underneath.
+Use the **Architecture of Meaning** dimension in Section 4 to consider *what the song is doing with its subject*. Actively explore materially different alternatives when useful. An intention may be chosen upfront, discovered during writing, blended, or changed.
 
-A song may have little or no deeper theme if comedy or storytelling alone is enough.
+Keep topic (subject), architecture of meaning (approach), and theme (a deeper human idea, *if any*) separate. “None intended” and “emergent” are valid brief entries; never invent a theme to fill a field.
 
 ### Stage 4 — Choose emotional function
 
@@ -1510,9 +1537,12 @@ Select the primary emotional job:
 
 Difficult emotions may remain unresolved when the unresolvedness represents manageable struggle rather than unnecessary suffering.
 
-### Stage 5 — Choose narrative behavior
+### Stage 5 — Choose expressive behavior (narrative optional)
 
-Determine what the song is doing:
+Determine what the song is doing when an expressive mechanism is useful:
+- observing or celebrating without a plot;
+- immersing listeners in a sensation, mood, or place;
+- playing with sounds, language, or associations;
 - telling a story;
 - escalating a joke;
 - arguing a case;
@@ -1567,21 +1597,11 @@ Then choose:
 
 Human-performance bias is preferred, not required.
 
-### Stage 8 — Decide lyrical depth
+### Stage 8 — Match lyrical treatment to the artistic intention
 
-Use:
-- familiar language with deliberate vocabulary stretch;
-- concrete metaphor;
-- ambiguity where useful;
-- multiple perspectives;
-- repetition with evolution;
-- optional layered references.
+Options include direct declaration, close observation, metaphor, sensory language, impressionistic association, purposeful nonsense, repetition, multiple perspectives, and optional layered references. Favor accessible language and thoughtful vocabulary stretch when appropriate.
 
-Aim for:
-
-> Accessible now; discoverable later.
-
-Meaning may deepen over days or weeks rather than requiring immediate explanation.
+For layered writing, “accessible now; discoverable later” can be valuable. For observational, experiential, comic, or nonrepresentational songs, immediate enjoyment may be the complete aim. Don't force delayed revelation.
 
 ### Stage 9 — Check hard gates
 
@@ -1605,7 +1625,7 @@ Highest-weight default dimensions:
 
 For child-centered and whole-family songs, child immediacy also carries high weight. For parent / couple-centered songs, it does not; the child-facing requirement is safe, comfortable access rather than equal thematic comprehension.
 
-Secondary dimensions:
+Secondary dimensions, **only when relevant to the intended song**:
 - emotional depth;
 - humor potential;
 - distinctiveness;
@@ -1683,7 +1703,8 @@ Periodically inspect balance across:
 - humor;
 - tenderness;
 - complexity;
-- subject matter.
+- subject matter;
+- architecture of meaning (as a diagnostic, not a quota).
 
 Follow the strongest ideas first, then intentionally explore missing territory.
 
@@ -1697,7 +1718,8 @@ Sparse, intentional inter-song cameos and motif callbacks are welcome.
 
 - **Working title:**
 - **Topic / premise:**
-- **Underlying theme:**
+- **Architecture of meaning / artistic intention:** (optional / emergent)
+- **Underlying theme:** (if any)
 - **Audience lane:**
 - **Child access / child layer:**
 - **Adult center / adult layer:**
@@ -1715,7 +1737,8 @@ Sparse, intentional inter-song cameos and motif callbacks are welcome.
 
 - **Working title:**
 - **Topic / premise:**
-- **Underlying theme:**
+- **Architecture of meaning / artistic intention:** (optional / emergent)
+- **Underlying theme:** (if any)
 - **Audience lane:**
 - **Child access / child layer:**
 - **Adult center / adult layer:**
