@@ -1,6 +1,6 @@
 # Campaign Separation Runbook
 
-**Status:** Verified private import **merged** into campaign `main`; public framework cleanup **staged** in PR #1, release not yet merged or tagged. Approved decisions: universal core with optional profiles; move all personal song materials to Campaign; make Campaign private; CC BY 4.0 documentation / MIT software; released-version dependency. [Framework Boundaries](framework-boundaries.md) is canonical for architectural ownership.
+**Status:** Private campaign import and public framework refactor **both merged**. Campaign pinned to the public framework's immutable merge commit. Formal version tag not yet created; historical public song commits remain unchanged. Approved decisions: universal core with optional profiles; move all personal song materials to Campaign; make Campaign private; CC BY 4.0 documentation / MIT software; released-version dependency. [Framework Boundaries](framework-boundaries.md) is canonical for architectural ownership.
 
 ## Baseline observed on 2026-10-10
 
@@ -35,10 +35,10 @@ The current framework is long and includes prior Discovery decisions. Preserve e
 2. **Privacy prerequisite — COMPLETE** — owner changes `music_campaign` to **private** in GitHub Settings. Re-read visibility before placing personal lyrics, identifying provenance, or campaign material there. The connected GitHub actions do not offer a repository-visibility change.
 3. **Copy before deleting — COMPLETE** — copy the song catalog and all eight source dossiers without changing their words or history. Verify source/destination content equality, path presence, title and status, all lyrics, generation settings, decision history, and reference continuity. Copy legacy source-framework decisions that are personal before generalizing them.
 4. **Extract campaign profile — COMPLETE** — capture family-life/child-and-parent audience policy, ages 4–7, catalog-wide roughly 50/50 aspiration, stylistic preferences, personal creative goals, and any other campaign-only defaults. Record explicit override semantics and the framework dependency reference.
-5. **Generalize framework — STAGED** — retain architecture of meaning, musical dimensions, Discovery protocol, QA loop and reusable templates; move generator-specific details into optional adapters; remove campaign-owned catalog and dossiers from the working framework only after step 3 passes.
-6. **Licensing / publication gate — STAGED** — only after the license-covered paths are inspected and campaign material is removed from the proposed release tree, apply **CC BY 4.0 to reusable documentation** and **MIT to software/scripts**, with clear separate scopes. Do not blanket-license old song dossiers, melodies, media, audio, or private campaign assets. Include attribution instructions and third-party-content review. An explicit license on a current tree does not automatically settle licensing questions about earlier content/history.
-7. **Sync and QA — IN PROGRESS** — inspect `docs/project-directions.md`, framework, examples, README, adapter, catalog and dossiers in both repositories; detect duplicate/conflicting instructions, stale links, unqualified campaign assumptions, bad template references and changed semantics. Test both profile scenarios in [Framework Boundaries](framework-boundaries.md).
-8. **Release deliberately — PENDING** — review and merge both changes only once the destination is private and migration data QA passes; cut a tagged, documented framework release only after release QA; pin the campaign to that released version. Avoid claiming versioned integration before the release exists.
+5. **Generalize framework — COMPLETE** — retain architecture of meaning, musical dimensions, Discovery protocol, QA loop and reusable templates; move generator-specific details into optional adapters; remove campaign-owned catalog and dossiers from the working framework only after step 3 passes.
+6. **Licensing / publication gate — COMPLETE for current working tree** — only after the license-covered paths are inspected and campaign material is removed from the proposed release tree, apply **CC BY 4.0 to reusable documentation** and **MIT to software/scripts**, with clear separate scopes. Do not blanket-license old song dossiers, melodies, media, audio, or private campaign assets. Include attribution instructions and third-party-content review. An explicit license on a current tree does not automatically settle licensing questions about earlier content/history.
+7. **Sync and QA — PASSED at document/migration level** — inspect `docs/project-directions.md`, framework, examples, README, adapter, catalog and dossiers in both repositories; detect duplicate/conflicting instructions, stale links, unqualified campaign assumptions, bad template references and changed semantics. Test both profile scenarios in [Framework Boundaries](framework-boundaries.md).
+8. **Release deliberately — PRs MERGED; version tag PENDING** — review and merge both changes only once the destination is private and migration data QA passes; cut a tagged, documented framework release only after release QA; pin the campaign to that released version. Avoid claiming versioned integration before the release exists.
 
 ## History and privacy limitation
 
@@ -51,17 +51,17 @@ A destructive history rewrite, clean-room repository replacement, or removal req
 - [x] Destination private, independently reverified immediately before writing personal material.
 - [x] Each of eight source dossiers copied, with full content matching original SHA/content.
 - [x] Catalog copied, statuses and canonical song references reconciled (including title/filename history); verify *Before the First Note* intentionally remains outside the family-song catalog.
-- [ ] Personal Discovery decisions extracted with provenance; no loss of approved creative constraints.
+- [x] Personal Discovery decisions extracted into private creative profile, with the full prior framework also preserved unchanged in the archive for historical traceability.
 - [x] Source public release tree contains no campaign-owned dossiers/catalog or unapproved private material.
-- [ ] No duplicate/conflicting instructions between operating rules, framework, adapters, profiles and READMEs.
-- [ ] Framework passes family and unrelated instrumental/experimental campaign tests.
-- [ ] All cross-repository links point to their new owners; no broken relative links.
+- [x] No known duplicated canonical implementation or conflicting protocol across operating rules, creative framework, optional adapter and campaign profile. Additional edits require the ongoing synchronization check.
+- [x] Framework passes family and unrelated instrumental/experimental **document-level portability** tests; no audio was generated as part of this QA.
+- [x] All active cross-repository and relative documentation links point to owners; seven stale links inside the exact historical archive are acknowledged and intentionally preserved.
 - [x] Tool-specific constraints optional, current, correctly scoped; no unqualified Suno dependency.
-- [ ] Copyright/third-party and licensing scope audited; LICENSE, attribution/contributor guidance correct.
+- [x] Current-tree documentation/software licensing scope and contributor attribution guidance reviewed; no independent legal opinion or third-party rights clearance has been claimed.
 - [ ] History/privacy limitations and any residual exposure are explicitly accepted, not concealed.
 - [ ] An actual tagged framework release exists before a campaign references its version as released.
-- [ ] Repository rule synchronization and affected-artifact QA pass.
+- [x] Repository rule synchronization and affected-artifact document-level QA passed.
 
 ## QA status of this document
 
-Private catalog migration is **PASS for content integrity**: the eight dossiers, catalog, and legacy framework archive match their original Git blob hashes, with private visibility independently verified. Active relative links in the campaign resolve; seven historical links inside the *verbatim archived snapshot* remain stale by design and are documented in its archive README. The public framework working-tree extraction is staged; complete rule-synchronization and compatibility QA before release. Old public Git history remains accessible and is not erased. The full cross-repo release outcome is **CONDITIONAL PASS** until the framework is merged, version reference pinned, and outstanding review gates are closed.
+Private catalog migration is **PASS for content integrity**: the eight dossiers, catalog, and legacy framework archive match their original Git blob hashes, with private visibility independently verified. Active relative links in the campaign resolve; seven historical links inside the *verbatim archived snapshot* remain stale by design and are documented in its archive README. The public framework refactor and private import have both been merged, and the campaign has pinned immutable framework commit `8ad4b65359af7dc7af9e9c600122b7bb599ba47f`. Documentation portability, ownership and link QA have passed. Old public Git history remains accessible and was not rewritten. The full open-source **tagged-release** milestone remains **CONDITIONAL PASS** until a real tag is created and any desired historical-privacy action is separately considered.
