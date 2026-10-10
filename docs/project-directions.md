@@ -12,6 +12,8 @@ Use this precedence order:
 2. current repository source of truth;
 3. project-level defaults and inferred conventions.
 
+**Scope resolution:** “current repository source of truth” means the canonical owner for the decision at issue: this framework governs **shared process** and a campaign repository governs its own **creative profile, catalog, and individual works**. A campaign's approved artistic/content criteria take priority over a *generic creative default*; they do not silently change this framework's Discovery, override or QA semantics. For ownership references, see [Framework Boundaries](framework-boundaries.md).
+
 A current explicit instruction may override repository convention, but conflicts must not be silently ignored.
 
 - If the user explicitly acknowledges the override, proceed.
