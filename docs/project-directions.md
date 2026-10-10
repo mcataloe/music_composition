@@ -1,10 +1,10 @@
 # Music Composition Project Directions
 
-This file is the canonical operating ruleset for the Music Composition project. Keep it focused on project behavior. Creative songwriting rules belong in `docs/music-song-framework.md`; the multi-song concept backlog belongs in `docs/potential-songs.md`; repository scope belongs in `README.md`; song-specific decisions belong in the relevant dossier.
+This file is the canonical operating ruleset for the **reusable Music Composition framework**, not for any particular songwriter's campaign. Keep project behavior here; creative songwriting and music-specific QA live in `docs/music-song-framework.md`; optional Suno execution lives in `docs/adapters/suno.md`; boundaries in `docs/framework-boundaries.md`; and each campaign's creative profile, actual song catalog, dossiers and provenance in its own repository. Navigation belongs in `README.md`.
 
 ## 1. Source of truth and authority
 
-The GitHub repository `mcataloe/music_composition` is the source of truth. For substantive project work, consult the current repository files relevant to the task rather than relying on conversational memory.
+The GitHub repository `mcataloe/music_composition` is the source of truth for **framework methodology and operating rules**. For a specific campaign's preferences, catalog or songs, consult that campaign's canonical repository too. Prefer current repository files to conversational memory when state matters.
 
 Use this precedence order:
 
@@ -82,12 +82,13 @@ Close the gate when remaining unknowns would refine rather than materially chang
 Place durable information in its canonical owner:
 
 - project operating behavior → this file;
-- creative songwriting framework and reusable music/generation rules → `docs/music-song-framework.md`;
-- multi-song concept backlog, candidate prioritization, and catalog status → `docs/potential-songs.md`;
-- repository scope and navigation → `README.md`;
-- song-specific concept, lyrics, generation directions, review findings, and lessons → that song's dossier.
+- reusable music methodology, brief templates and music QA checks → `docs/music-song-framework.md`;
+- optional generator-specific execution rules → relevant `docs/adapters/` file;
+- repository boundaries and dependency policy → `docs/framework-boundaries.md`;
+- project scope and navigation → `README.md`;
+- campaign identity, catalog, candidate prioritization/status and song-specific decisions, lyrics, directions and review → owning campaign repository.
 
-When work concerns an existing song, consult its current dossier and the governing framework when relevant.
+When work concerns a specific song, consult its canonical dossier **in the owning campaign** and the governing framework when relevant. Do not recreate private song records in this public repository.
 
 When the user approves a durable decision, that approval is sufficient authority to update the appropriate repository artifact without asking for a second “proceed.” Ask again only if the repository change is destructive, unusually broad, materially ambiguous, or goes beyond what was approved.
 
@@ -100,7 +101,7 @@ Whenever a durable rule, convention, trigger, exception, precedence rule, workfl
 The check must:
 
 1. identify the canonical owner of the changed rule;
-2. inspect this file, `docs/music-song-framework.md`, `docs/potential-songs.md`, `README.md`, relevant song dossiers, and any other materially affected repository documents;
+2. inspect this file, `docs/music-song-framework.md`, `docs/framework-boundaries.md`, optional adapters, `README.md`, and materially affected campaign profile/catalog/dossiers in their owning repository as accessible;
 3. detect duplicated, overlapping, or near-duplicated instructions;
 4. consolidate implementation detail into one canonical location whenever practical, replacing duplicates with concise references or scope-specific extensions;
 5. verify that references agree on activation semantics, precedence, exceptions, stopping conditions, and implementation behavior;
