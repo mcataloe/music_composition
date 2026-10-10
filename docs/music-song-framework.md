@@ -158,6 +158,8 @@ Consider three independent axes:
 - **Relationship to meaning:** direct, symbolic/layered, associative, ambiguous, listener-generated, or intentionally without further subtext.
 - **Listener invitation:** understand, notice, feel, imagine, laugh, participate, contemplate, or simply enjoy.
 
+For concrete prompts and contrasting song premises, see the [Architecture of Meaning — Creative Idea Bank](meaning-architecture-examples.md). That reference contains examples, not additional governing rules.
+
 Illustrative approaches (not exclusive categories):
 - **Symbolic/layered** — concrete material carries another idea.
 - **Pure observation** — particulars are sufficient.
