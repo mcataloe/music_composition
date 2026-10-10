@@ -53,7 +53,7 @@ The audience experiences an apparently effortless concert; backstage, many peopl
 6. **Final chorus:** Slightly evolved words: abstract data becomes a person's journey. Avoid triumphalist recruiting pitch.
 7. **Outro:** Small open image of another show and another name. Future remains inviting, not resolved.
 
-Language should sound spoken/sung by a person, not an explanatory essay. Use one Chicago image, one brand mention, and selective technology wording. No unsupported anecdotes presented as autobiographical career facts; the concert arrival scene is an imaginative composite, not a documentary claim.
+Language should sound spoken/sung by a person, not an explanatory essay. Use no explicit Chicago place-name in the lyric; let Chicago live in the musical language. Keep one brand mention and only selective, human-centered technology-adjacent wording. No unsupported anecdotes presented as autobiographical career facts; the concert arrival scene is an imaginative composite, not a documentary claim.
 
 ### Musical language, modern treatment, and arrangement
 - **Source tradition:** Chicago blues + soul with jazz chords; modern, organic small band, not pop-country mirroring and not generic twelve-bar pastiche.
@@ -71,11 +71,11 @@ Language should sound spoken/sung by a person, not an explanatory essay. Use one
 - **Avoid:** Generic inspirational lyrics, boasting or pleading, gratuitous abbreviations, invented numbers or career achievements, claims of working for Suno/Songkick, invented historical crises, institutional affiliation with CSO/Lyric, or portraying the internal Rockford Access/VBA platform as a cloud SaaS.
 - **Success test:** Music holds up without the job context; human stakes first; bridge and closing suggest genuine future collaboration.
 
-## Lyrics v1 — WORKING DRAFT, NOT FINAL
+## Lyrics v2 — WORKING DRAFT, POST-LISTENING REVISION
 
 ```text
 [Verse 1]
-The marquee lights a Chicago street, the house is filling fast
+The marquee glows above the door, the house is filling fast
 Two friends unfold their programs as the last few people pass
 From row fifteen it's magic when the room begins to hush
 In the wings it's names and questions and the last-minute rush
@@ -95,14 +95,14 @@ Before the first note
 Somebody's on their way
 
 [Verse 2]
-I've stood there with a violin; I've made those calls as well
+I've played beneath those lights; I've made those calls as well
 Kept the rosters and the contracts, the stories lists can't tell
 A mark beside a name could change the hours and the pay
-So I built a little system to keep the details straight
+So I built a better way to keep the details straight
 It held the schedules, miles, and hours; the work behind the sound
 I learned a different kind of measure when I wrote the numbers down
-Now I build across more systems, but the question still rings true:
-When you write a line of data, who's depending on you?
+Now I build in different places, but the question still rings true:
+When you write a name or number, who's depending on you?
 
 [Chorus]
 Before the first note
@@ -171,4 +171,5 @@ Rationale: A faithful neutral baseline makes the narrative, band character and i
 ## Revision/lifecycle notes
 
 - 2026-10-10: Full Song Brief approved after three Discovery rounds; v1 lyric and baseline Suno generation package drafted; repository initialized for special-purpose professional composition.
+- 2026-10-10: Listening review produced lyric v2: removed explicit Chicago, instrument-specific autobiography, and overt data/system terminology while preserving structure, refrain, and narrative arc.
 - Promote lyric and audio selections only after review; keep this dossier canonical and do not insert it into the family-song catalog by default.
