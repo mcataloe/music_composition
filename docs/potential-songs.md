@@ -32,7 +32,7 @@ Current catalog tendency:
 | Song idea | What the child hears | What the adult hears | Primary mode | Potential | Status |
 |---|---|---|---|---:|---|
 | **Friday Night** *(formerly **You Watched It Without Me**)* | One partner is dramatically devastated because the other watched the next episode of their shared show. | The strangely real etiquette of couple rituals, wildly disproportionate heartbreak, and one adult-readable but child-invisible double entendre. | Parent/couple comedy / dramatic soul heartbreak | ★★★★★ | Completed |
-| **Love Between the Raindrops** *(working title)* | A warm adult love song whose concrete surface is made of small moments inside ordinary busy days: a glance, a hand, a laugh after tension, a quiet return to each other. | Long-term affection is sustained less by grand gestures than by repeated small acts of attention and repair amid work stress, dumb arguments, plans that fail, disappointment, and ordinary life. | Parent/couple tenderness / observational love song | ★★★★★ | Backlog |
+| **Love Between the Raindrops** *(working title)* | A warm adult love song whose concrete surface is made of small moments inside ordinary busy days: a glance, a hand, a laugh after tension, a quiet return to each other. | Long-term affection is sustained less by grand gestures than by repeated small acts of attention and repair amid work stress, dumb arguments, plans that fail, disappointment, and ordinary life. | Parent/couple tenderness / observational love song | ★★★★★ | In development |
 | **Dishes Come Back** | Dishes accumulate all day, everyone becomes mysteriously busy at cleanup time, and one tiny dish returns immediately after victory. | Recurring domestic labor, conveniently timed unavailability, and the fleeting glory of an empty sink. | Dark domestic comedy / country-folk satire | ★★★★★ | Completed |
 | **Feed the Cats** | Callie and Capone mount a desperate campaign for their 7:00 PM wet-food dinner. | The absurd certainty of cats that a completely dependable feeding routine is an existential emergency. | Mock-serious domestic comedy / jazz samba | ★★★★★ | Completed |
 | **Woodpeckers Are the Best** | An enthusiastic, increasingly certain case that woodpeckers are obviously the best. | The delight of a child's spontaneous conviction, turned into a real song without sanding away its absurd certainty. | Pure Delight / child-forward acoustic comedy | — | Completed |
@@ -120,9 +120,9 @@ When a concept becomes an active song:
 
 When a new concept is added, capture enough information to distinguish its child layer, adult layer, primary mode, and likely catalog contribution before prioritizing it.
 
-### Backlog note — Love Between the Raindrops
+### Active concept — Love Between the Raindrops
 
-This concept expands the parent / couple lane beyond relationship comedy into sustained affection and emotional realism. Its center is not that love conquers adversity, but that an ordinary partnership is repeatedly maintained in the small spaces between obligations, frustrations, disappointments, and imperfect repair. Preserve mutuality and tenderness; avoid romanticizing mistreatment, forced gratitude, or making every hardship resolve neatly.
+Discovery is in progress. Its contribution is parent/couple tenderness through small acts of mutual attention and repair across ordinary stress and disappointment. Song-specific decisions, personal inspiration, and open discovery questions live in [**Love Between the Raindrops**](songs/love-between-the-raindrops.md).
 
 ### Backlog note — Autumn Leaves
 
