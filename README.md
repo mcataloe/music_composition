@@ -1,5 +1,7 @@
 # Music Composition
 
+> **Repository separation in progress (draft, not released):** This repository currently contains both a reusable composition system and personal song/campaign material. The approved target architecture is a general-purpose framework independent of any one audience or generator, with personal song records migrating to a **private** [`music_campaign`](https://github.com/mcataloe/music_campaign). The source `main` branch remains authoritative until the migration is copied, checked, and merged. See [framework boundaries](docs/framework-boundaries.md) and the [separation runbook](docs/separation-runbook.md) for the proposed boundary and release gates.
+
 This repository is the home for the reusable songwriting system and the songs developed with it.
 
 ## Scope
