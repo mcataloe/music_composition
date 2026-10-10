@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Discovery CLOSED (three rounds, 2026-10-09). Full Song Brief COMPLETE and brief QA PASS. Songwriting, Suno execution package, generation, and listening review have not begun. **No lyrics generated.**
+**Stage:** Discovery CLOSED; Full Song Brief COMPLETE and brief QA PASS. **Lyrics v1 written and reviewed as a working draft** (not finalized or generated). Suno execution package, audio generation, and listening review remain pending.
 
 **Working title:** Love Between the Raindrops. Title is provisional and may change if the eventual hook demands it.
 
@@ -217,6 +217,82 @@ Later translate the completed lyrics and full brief to separate Suno lyric, styl
 - **Creative integrity:** Uses concrete situations and mutual actions rather than narratorial preaching, generic slogans, or a guaranteed happy resolution.
 - **Child safety:** Adult-forward and child-safe; no threats, contempt, or inappropriate innuendo.
 - **Music:** A credible style and achievable arrangement behavior have been selected under explicit user delegation, without prematurely prescribing exact melody or harmony.
-- **Scope:** No lyrics have been drafted or attributed to the user; no generation or listening result has been claimed.
+- **Scope at brief approval:** No lyrics had yet been drafted or attributed to the user; no generation or listening result was claimed.
 
 **QA carry-forward for songwriting/generation:** Test whether the bridge clearly reveals real relational conflict without compressing too many years into one verse; whether the recurring gesture deepens; whether softened viewpoints are communicated in an image rather than exposition; and whether the harmonic tension and stable pulse are audible in Suno output.
+
+---
+
+## Lyrics v1 — Working draft (2026-10-09)
+
+**Status:** Proposed, not yet user-reviewed or accepted as final. This is a songwriting-stage draft, not an initial-generation package.
+
+```text
+[Verse 1]
+Rain against the kitchen glass
+At twenty after eight
+You ask about the plans we made
+I say, "It'll have to wait"
+"That's what you said last week," you say
+I hate the way it lands
+You pull your coat on by the door
+I fold my arms again
+
+[Refrain]
+Somewhere between the raindrops
+And the things we couldn't say
+You leave my coffee by my keys
+The handle turned my way
+
+[Verse 2]
+At five the wipers keep their time
+Across the shining road
+I make the call I said I'd make
+Before I head back home
+Your message says, "I'm running late"
+I almost type, "Of course"
+I set my phone beside the sink
+And put the kettle on
+
+[Refrain]
+Somewhere between the raindrops
+And the words I didn't say
+Your cup is waiting by the stove
+The handle turned your way
+
+[Bridge]
+That winter when the offer came
+You wanted us to go
+I saw the life we'd have to leave
+And only told you no
+We fought till words were paper-thin
+Some of them still sting
+Now I check the roads out west
+You say, "I like this street"
+
+[Final Refrain]
+No break between the raindrops
+They're drumming on the roof
+You pull your chair beside mine
+I make some room for you
+
+[Outro]
+Your tea is cold; you make a face
+I reach to pour you more
+You say, "About this morning..."
+I set the kettle down
+```
+
+### Lyric QA (paper only)
+
+**Result: PASS for a working lyrical draft; generation and listening untested.**
+
+- **Brief fidelity:** Real rain opens the day; an authentic defensiveness/missed follow-through dispute occupies the morning; a later late-arrival annoyance prompts deliberate care; one past high-stakes relocation disagreement supplies the genuinely difficult relational storm. The day returns to an unfinished conversation.
+- **Theme:** “Choice” is expressed by leaving a cup, making the promised call, not sending a barbed text, setting out tea, pulling chairs close, and setting the kettle down to hear the other person. No sermon and no wedding-inscription quotation.
+- **Conflict balance:** Both people have agency, neither is painted as a villain. Past words still sting; the couple remains capable of a new conversation. The last bridge couplet shows perspective drift through reversed interest in moving and staying, without saying they now agree.
+- **Metaphor / motif:** The first two refrains locate affection between raindrops; the final refrain offers no break in the rain, yet they draw near. Coffee/tea cup and handle orientation change owner across the day, providing mutuality without explanation.
+- **Economy:** Two daily-life tensions and one historical storm, no laundry list. Two compact 4-line refrains, then a changed final one; estimated fit roughly 3–3.5 minutes depending on sung pace.
+- **Child safety / dignity:** Appropriate for young listeners to overhear; no abandonment threats, contempt, or coercion.
+- **Revision watch:** In actual melody, test stress/accent on “Somewhere between the raindrops,” whether the shift into the eight-line bridge is emotionally earned, and whether “offer” clearly suggests a significant life opportunity without excessive explanation. Test if “I set the kettle down” reads as choosing conversation rather than abandonment of the tea. These require melodic/listening evidence or user preference, not further speculative lyric editing.
+
+**Design decision made to control scope:** The unresolved, enduring-difference theme and slow convergence are embodied in the relocation memory, not separately explained through additional flashbacks. If the song later feels too slight or too dense, adjust the bridge or verse 2 rather than simply add verses.
