@@ -31,7 +31,7 @@ Child-specific parenting, developmental, household, or biographical material bel
 - `docs/songs/dishes-come-back.md` — dossier for **Dishes Come Back**.
 - `docs/songs/woodpeckers-are-the-best.md` — dossier for **Woodpeckers Are the Best**.
 - `docs/songs/the-long-way-home.md` — dossier for **The Long Way Home**.
-- `docs/songs/love-between-the-raindrops.md` — discovery and Full Song Brief for **Love Between the Raindrops**.
+- `docs/songs/between-the-raindrops.md` — discovery and Full Song Brief for **Between the Raindrops**.
 
 ## Domain boundary
 
