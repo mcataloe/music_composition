@@ -6,7 +6,7 @@ The canonical creative and music-QA rules are in [Music & Song Framework](../mus
 
 ## Output for an initial lyrics generation
 
-When a campaign chooses Suno and requests an initial **lyric-based** generation package, present:
+When a campaign chooses Suno and **lyrics are first drafted for that song**, or an initial **lyric-based** generation package is requested, present:
 
 1. **Lyrics** in a separate copy/edit block with clear bracketed section markers where supported.
 2. **Style and production instructions** in a separate copy/edit block. Keep within the currently documented/applicable style-field size; the source project's observed ceiling is **under 1,000 characters**. Reverify after interface changes and include a character count when practical.
@@ -44,7 +44,7 @@ Some controls are conditional and tool versions change. Treat this list as a dat
 
 For an initial baseline with an intentionally engineered style field, the source campaign has often used **Variety: Off**, relatively strong Style Influence and restrained Weirdness, seeking faithful initial generation. These are **starting hypotheses, not universal defaults**. If exploration is the objective, higher variety or other settings may be more suitable; change a small number of meaningful parameters per test to attribute effects.
 
-Run the entire package, **including the caption's faithfulness, audience fit and spoiler sensitivity**, through the shared framework's pre-generation QA, then reserve audio-dependent findings for listening review. Revisit the caption after revisions if the song's actual meaning or presentation materially changes. Store actual chosen controls, final lyrics, style instructions, and what happened in the **campaign-owned song dossier**, not this general adapter.
+Run the entire package, **including the caption's faithfulness, audience fit and spoiler sensitivity**, through the shared framework's pre-generation QA, then reserve audio-dependent findings for listening review. Revisit the caption after revisions if the song's actual meaning or presentation materially changes. Store actual chosen controls, final lyrics, style instructions, publication caption, and what happened in the **campaign-owned song dossier**, not this general adapter.
 
 ## License and separation
 
