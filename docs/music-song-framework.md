@@ -93,7 +93,7 @@ The abstract meaning can emerge from a concrete event, **when deeper meaning is 
 
 ### Rule 3 — Match the layering strategy to the audience lane
 
-In child-centered songs, adult meaning often works best when it is discovered rather than announced through:
+In child-centered songs **when an adult layer is intended**, that meaning often works best when it is discovered rather than announced through:
 - one line;
 - a bridge;
 - a reversal;
@@ -515,28 +515,29 @@ Check:
 A future song brief may eventually include:
 
 1. **Topic / concrete premise**
-2. **Underlying theme**
-3. **Audience lane**
-4. **Child access / child layer**
-5. **Adult center / adult layer**
-6. **Primary emotion**
-7. **Secondary emotion**
-8. **Narrative device**
-9. **Point of view**
-10. **Genre**
-11. **Tempo / meter / groove**
-12. **Harmonic character**
-13. **Melodic approach**
-14. **Vocal character**
-15. **Ensemble**
-16. **Texture**
-17. **Timbre**
-18. **Production aesthetic**
-19. **Participation device**
-20. **Humor mechanism, if any**
-21. **Emotional turn / payoff**
-22. **Developmental-fit / child-safe-access check**
-23. **Adult-repeatability check**
+2. **Architecture of meaning / artistic intention (optional or emergent)**
+3. **Underlying theme (if any)**
+4. **Audience lane**
+5. **Child access / child layer**
+6. **Adult center / adult layer**
+7. **Primary emotion**
+8. **Secondary emotion**
+9. **Narrative device**
+10. **Point of view**
+11. **Genre**
+12. **Tempo / meter / groove**
+13. **Harmonic character**
+14. **Melodic approach**
+15. **Vocal character**
+16. **Ensemble**
+17. **Texture**
+18. **Timbre**
+19. **Production aesthetic**
+20. **Participation device**
+21. **Humor mechanism, if any**
+22. **Emotional turn / payoff**
+23. **Developmental-fit / child-safe-access check**
+24. **Adult-repeatability check**
 
 This model is intentionally broad at this stage. It should be simplified after discovery identifies which dimensions materially influence creative decisions and which are redundant.
 
@@ -927,7 +928,7 @@ Metaphors may intentionally stretch beyond immediate comprehension if their mean
 
 The goal is not immediate decoding. It is age-appropriate discovery.
 
-### Repetition with evolution
+### Repetition: evolving or intentionally static
 
 Repetition is useful for memorability, participation, and emotional reinforcement. It may evolve, or remain intentionally static when recurrence or incantation is the artistic point.
 
@@ -946,7 +947,7 @@ A repeated chorus may become emotionally different by the end even if its words 
 
 Lyrics may support multiple valid interpretations.
 
-This is not merely acceptable; it is a desirable feature when developmentally appropriate.
+When a song invites multiple readings, this is a desirable feature when developmentally appropriate; other songs may intentionally be direct or uninterpreted.
 
 A child may:
 - interpret an image literally;
@@ -1341,7 +1342,7 @@ For emotionally, structurally, or musically complex songs.
 
 May additionally capture:
 - unresolvedness / emotional integration;
-- metaphor and ambiguity strategy;
+- lyrical treatment, including metaphor or ambiguity when relevant;
 - form;
 - arrangement arc;
 - timbral plan;
@@ -1747,7 +1748,7 @@ Sparse, intentional inter-song cameos and motif callbacks are welcome.
 - **Narrative mechanism:**
 - **Point of view:**
 - **Resolution / unresolvedness strategy:**
-- **Vocabulary / metaphor strategy:**
+- **Vocabulary / lyrical treatment strategy:**
 - **Ambiguity / perspective design:**
 - **Genre / source tradition:**
 - **Modern adaptation:**
