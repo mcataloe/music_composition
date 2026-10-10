@@ -14,7 +14,7 @@ You may share and adapt licensed documentation for any purpose, including commer
 ## Path-specific boundaries
 
 **CC BY 4.0 applies to:**
-- `README.md`;
+- `README.md` and `CONTRIBUTING.md`;
 - `docs/project-directions.md`, `docs/music-song-framework.md`, `docs/meaning-architecture-examples.md`, `docs/framework-boundaries.md` and `docs/separation-runbook.md`;
 - documentation in `docs/adapters/` including `docs/adapters/suno.md`;
 - human-readable creative starter templates under `templates/` unless separately labeled.
