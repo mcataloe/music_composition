@@ -11,6 +11,7 @@ When a campaign chooses Suno and requests an initial **lyric-based** generation 
 1. **Lyrics** in a separate copy/edit block with clear bracketed section markers where supported.
 2. **Style and production instructions** in a separate copy/edit block. Keep within the currently documented/applicable style-field size; the source project's observed ceiling is **under 1,000 characters**. Reverify after interface changes and include a character count when practical.
 3. **Suno control configuration** in a table, with a concise rationale and any settings not available for the selected generation mode.
+4. **Song caption** in its own copy/edit block, drafted alongside the initial lyrics. Write brief, listener-facing publication text (for example, a Suno song description) that captures the song's invitation, tone or premise without merely restating the lyrics, revealing an intended surprise, inventing provenance, or claiming an unverified outcome. This is **publication copy**, not a generation prompt or an extra Suno generation control.
 
 For an instrumental Suno generation, adapt the format rather than inventing lyrics or a singer. In later revision cycles, return only the parts necessary to implement the request unless the campaign asks for a complete package.
 
@@ -43,7 +44,7 @@ Some controls are conditional and tool versions change. Treat this list as a dat
 
 For an initial baseline with an intentionally engineered style field, the source campaign has often used **Variety: Off**, relatively strong Style Influence and restrained Weirdness, seeking faithful initial generation. These are **starting hypotheses, not universal defaults**. If exploration is the objective, higher variety or other settings may be more suitable; change a small number of meaningful parameters per test to attribute effects.
 
-Run the entire package through the shared framework's pre-generation QA, then reserve audio-dependent findings for listening review. Store actual chosen controls, final lyrics, style instructions, and what happened in the **campaign-owned song dossier**, not this general adapter.
+Run the entire package, **including the caption's faithfulness, audience fit and spoiler sensitivity**, through the shared framework's pre-generation QA, then reserve audio-dependent findings for listening review. Revisit the caption after revisions if the song's actual meaning or presentation materially changes. Store actual chosen controls, final lyrics, style instructions, and what happened in the **campaign-owned song dossier**, not this general adapter.
 
 ## License and separation
 
