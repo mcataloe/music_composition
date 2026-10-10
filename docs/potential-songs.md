@@ -122,7 +122,7 @@ When a new concept is added, capture enough information to distinguish its child
 
 ### Active concept — Love Between the Raindrops
 
-Discovery is complete and the Full Song Brief has passed written-brief QA; lyrics and generation remain pending. The song distinguishes affection between everyday raindrops from sustained commitment through real relational storms. Some differences persist; some are respectfully accommodated; others gradually soften as each partner grows toward the other's perspective. The [**song dossier**](songs/love-between-the-raindrops.md) holds all song-specific decisions and QA.
+Discovery is complete; the Full Song Brief has passed written-brief QA, and a first working lyric draft is recorded (not yet accepted as final). Suno generation and listening review remain pending. The song distinguishes affection between everyday raindrops from sustained commitment through real relational storms. Some differences persist; some are respectfully accommodated; others gradually soften as each partner grows toward the other's perspective. The [**song dossier**](songs/love-between-the-raindrops.md) holds all song-specific decisions and QA.
 
 ### Backlog note — Autumn Leaves
 
