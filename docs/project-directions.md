@@ -1,7 +1,5 @@
 # Music Composition Project Directions
 
-> **Transition note:** The approved framework/campaign separation is staged in [Framework Boundaries](framework-boundaries.md) and the [Separation Runbook](separation-runbook.md). Until migration QA and release are complete, this document and the existing music framework still govern work in the current repository. Proposed future boundaries do not silently change active songwriting rules, and personal song files must not be copied into a public destination.
-
 This file is the canonical operating ruleset for the Music Composition project. Keep it focused on project behavior. Creative songwriting rules belong in `docs/music-song-framework.md`; the multi-song concept backlog belongs in `docs/potential-songs.md`; repository scope belongs in `README.md`; song-specific decisions belong in the relevant dossier.
 
 ## 1. Source of truth and authority
