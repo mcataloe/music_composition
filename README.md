@@ -10,6 +10,8 @@
 4. Develop song or work dossiers in that campaign. Use [Architecture of Meaning Examples](docs/meaning-architecture-examples.md) for optional idea prompts.
 5. If generating with Suno, read the optional [Suno Adapter](docs/adapters/suno.md). No AI generation service is required.
 
+To contribute improvements, see [Contributing](CONTRIBUTING.md).
+
 ## Repository ownership
 
 This repository owns:
