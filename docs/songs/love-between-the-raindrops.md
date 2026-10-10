@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Discovery CLOSED; Full Song Brief COMPLETE and brief QA PASS. **Lyrics v1 written and reviewed as a working draft** (not finalized or generated). Suno execution package, audio generation, and listening review remain pending.
+**Stage:** Discovery CLOSED; Full Song Brief COMPLETE; **Lyrics v1 remain a working draft**. Suno baseline package v1 prepared and pre-generation QA conditionally passed. Audio generation and listening review remain pending.
 
 **Working title:** Love Between the Raindrops. Title is provisional and may change if the eventual hook demands it.
 
@@ -296,3 +296,43 @@ I set the kettle down
 - **Revision watch:** In actual melody, test stress/accent on “Somewhere between the raindrops,” whether the shift into the eight-line bridge is emotionally earned, and whether “offer” clearly suggests a significant life opportunity without excessive explanation. Test if “I set the kettle down” reads as choosing conversation rather than abandonment of the tea. These require melodic/listening evidence or user preference, not further speculative lyric editing.
 
 **Design decision made to control scope:** The unresolved, enduring-difference theme and slow convergence are embodied in the relocation memory, not separately explained through additional flashbacks. If the song later feels too slight or too dense, adjust the bridge or verse 2 rather than simply add verses.
+
+---
+
+## Suno v6 baseline execution package — v1 (2026-10-09)
+
+**Status:** Proposed initial-generation baseline based on the working Lyrics v1 above; no audio generated, no listening review. This is an execution plan, not a claim of final approval for the lyrics or production.
+
+### Style / production instructions (871 characters; under 1,000)
+
+```text
+Intimate, groove-led 1970s soul-inflected singer-songwriter / soft rock with clear modern live-room production. ~86 BPM, 4/4; lightly syncopated, unhurried pocket. Round electric bass, human drums, warm Wurlitzer/piano, acoustic and clean electric guitars trading spare fills; optional delicate solo violin. One close, mature lead vocal: conversational, vulnerable and gently weathered, with restrained tension rather than theatrical belting. Begin with a brief instrumental groove; keep verses spacious and refrains a little wider, with a melodic lift on "between the raindrops." At the bridge, thin the arrangement but preserve the pulse. Let suspensions, maj7/add9 colors and borrowed minor iv suggest differences not yet resolved. Final refrain returns warmer, not grander, and drops to a quiet human ending. Natural dynamics, tactile performance, subtle tape warmth.
+```
+
+### Generator controls
+
+| Control | Baseline recommendation |
+|---|---|
+| Exclude Styles | arena rock; orchestral power ballad; EDM; children's music; duet vocals; choir |
+| Vocal Gender | Unspecified |
+| Duration | Custom — target 3:20 |
+| Max Mode | On |
+| Weirdness | 20% |
+| Style Influence | 85% |
+| Audio Influence | N/A — no audio reference |
+| Variety | Off |
+| Personalize | Off |
+
+**Rationale:** Favor faithful, natural storytelling and groove over stylistic novelty; preserve deliberate instrumentation, bridge dynamics, and restrained emotional payoff. The exact voice identity was not approved and therefore is intentionally unspecified. Use Exclude Styles for potentially distorting treatments rather than filling the style prompt with repeated negatives.
+
+### Pre-generation QA
+
+**Result: CONDITIONAL PASS.** Written checks pass; the audible interpretation remains untested.
+
+- Style length mechanically verified at 871 characters with >100 characters of headroom.
+- All required Suno controls are present using valid named Variety levels.
+- Lyrics are in the earlier, separate lyric block; style carries arrangement, tempo, groove, and expressive directions; controls carry generator settings and exclusion terms.
+- No vocal gender, duration, or other dedicated Suno control is repeated in the style prompt.
+- The stable rhythmic pulse and tension-to-tenderness arrangement express commitment through the storm; no forced celebratory climax.
+- No direct quote of the private wedding inscription; unresolved differences remain visible in the lyric and bridge.
+- To test after generation: prosodic clarity of the rain refrain, the emotional meaning of the relocation bridge, distinct musical color at the final refrain, and the interpretation of the last kettle gesture.
