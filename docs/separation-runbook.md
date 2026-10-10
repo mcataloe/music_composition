@@ -18,6 +18,7 @@
 | `docs/music-song-framework.md` | **Refactor in place** into universal songwriting/craft rules; extract personal preferences and Suno execution constraints to their owners |
 | `docs/meaning-architecture-examples.md` | Keep neutral/invented examples; move or replace song-specific touchstones |
 | `docs/potential-songs.md` | Copy intact into private Campaign; after QA remove from *active* source branch |
+| `docs/songs/before-the-first-note.md` | Copy intact into private Campaign; professional application song, **intentionally outside the family-song catalog** |
 | `docs/songs/between-the-raindrops.md` | Copy intact into private Campaign |
 | `docs/songs/dishes-come-back.md` | Copy intact into private Campaign |
 | `docs/songs/feed-the-cats.md` | Copy intact into private Campaign |
@@ -32,7 +33,7 @@ The current framework is long and includes prior Discovery decisions. Preserve e
 
 1. **Stage safely** — create a dedicated framework branch and draft PR; do not change the source `main` yet. Establish exact migration inventory and QA expectations.
 2. **Privacy prerequisite — BLOCKER** — owner changes `music_campaign` to **private** in GitHub Settings. Re-read visibility before placing personal lyrics, identifying provenance, or campaign material there. The connected GitHub actions do not offer a repository-visibility change.
-3. **Copy before deleting** — copy the song catalog and all seven source dossiers without changing their words or history. Verify source/destination content equality, path presence, title and status, all lyrics, generation settings, decision history, and reference continuity. Copy legacy source-framework decisions that are personal before generalizing them.
+3. **Copy before deleting** — copy the song catalog and all eight source dossiers without changing their words or history. Verify source/destination content equality, path presence, title and status, all lyrics, generation settings, decision history, and reference continuity. Copy legacy source-framework decisions that are personal before generalizing them.
 4. **Extract campaign profile** — capture family-life/child-and-parent audience policy, ages 4–7, catalog-wide roughly 50/50 aspiration, stylistic preferences, personal creative goals, and any other campaign-only defaults. Record explicit override semantics and the framework dependency reference.
 5. **Generalize framework** — retain architecture of meaning, musical dimensions, Discovery protocol, QA loop and reusable templates; move generator-specific details into optional adapters; remove campaign-owned catalog and dossiers from the working framework only after step 3 passes.
 6. **Licensing / publication gate** — only after the license-covered paths are inspected and campaign material is removed from the proposed release tree, apply **CC BY 4.0 to reusable documentation** and **MIT to software/scripts**, with clear separate scopes. Do not blanket-license old song dossiers, melodies, media, audio, or private campaign assets. Include attribution instructions and third-party-content review. An explicit license on a current tree does not automatically settle licensing questions about earlier content/history.
@@ -48,8 +49,8 @@ A destructive history rewrite, clean-room repository replacement, or removal req
 ## Formal release QA checklist
 
 - [ ] Destination private, independently reverified immediately before writing personal material.
-- [ ] Each of seven source dossiers copied, with full content matching original SHA/content.
-- [ ] Catalog copied, statuses and canonical song references reconciled (including title/filename history).
+- [ ] Each of eight source dossiers copied, with full content matching original SHA/content.
+- [ ] Catalog copied, statuses and canonical song references reconciled (including title/filename history); verify *Before the First Note* intentionally remains outside the family-song catalog.
 - [ ] Personal Discovery decisions extracted with provenance; no loss of approved creative constraints.
 - [ ] Source public release tree contains no campaign-owned dossiers/catalog or unapproved private material.
 - [ ] No duplicate/conflicting instructions between operating rules, framework, adapters, profiles and READMEs.
