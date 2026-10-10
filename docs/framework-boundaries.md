@@ -1,6 +1,6 @@
 # Framework and Campaign Boundaries
 
-**Status:** Approved architecture; implementation pending migration QA. This document owns the target repository boundaries. [Separation Runbook](separation-runbook.md) owns the execution sequence and release gates.
+**Status:** Adopted architecture; private campaign import verified/merged; public framework refactor validated in [Separation QA](qa-separation-20261010.md). This document owns the target repository boundaries. [Separation Runbook](separation-runbook.md) owns the execution sequence and release gates.
 
 ## Architecture decision (2026-10-10)
 
