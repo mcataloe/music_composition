@@ -2,9 +2,9 @@
 
 *A non-exhaustive collection of songwriting starting points, not a menu to complete.*
 
-The governing definitions, audience standards, Discovery behavior, and QA rules live in the [Music & Song Framework](music-song-framework.md#4-creative-design-dimensions--discovery-map), under **A1. Architecture of Meaning**. This page supplies **examples only**: possible ways a song can relate to a subject or create an experience for a listener. It does not define new mandatory categories or replace the framework.
+The governing definitions, audience standards, Discovery behavior, and QA rules live in the [Music & Song Framework](music-song-framework.md#2-creative-design-dimensions--discovery-map), under **A1. Architecture of Meaning**. This page supplies **examples only**: possible ways a song can relate to a subject or create an experience for a listener. It does not define new mandatory categories or replace the framework.
 
-**Use these as sparks, not specifications.** Most examples are deliberately small enough to leave room for invention. They are hypothetical sketches, **not approved song concepts, backlog entries, finished briefs, or lyrics**. Move one to [Potential Songs](potential-songs.md) only when explicitly chosen for the catalog.
+**Use these as sparks, not specifications.** Most examples are deliberately small enough to leave room for invention. They are hypothetical sketches, **not approved song concepts, backlog entries, finished briefs, or lyrics**. Move an adopted idea into **your own campaign's** concept backlog only when explicitly chosen; the public framework has no shared personal song catalog.
 
 ## Ten starting approaches
 
