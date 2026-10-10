@@ -115,6 +115,6 @@ There is **no obligation** to find a symbolic interpretation for the literal ver
 - [Woodpeckers Are the Best](songs/woodpeckers-are-the-best.md): pure delight, heightened observation, and mock-serious enthusiasm without a lesson.
 - [Dishes Come Back](songs/dishes-come-back.md): repetitive household comedy and pointed observation without requiring a sentimental payoff.
 - [Five More Minutes](songs/five-more-minutes.md): a repeated phrase that gathers a second emotional meaning over time.
-- [Love Between the Raindrops](songs/love-between-the-raindrops.md): purposeful symbolic layering about affection and chosen commitment.
+- [Between the Raindrops](songs/between-the-raindrops.md): purposeful symbolic layering about affection and chosen commitment.
 
 These demonstrate variety already present in the project. Future songs need not occupy any of these same lanes.
