@@ -110,11 +110,8 @@ There is **no obligation** to find a symbolic interpretation for the literal ver
 
 **Stopping point:** If the premise already has a memorable hook or vivid identity, stop browsing lenses and start developing it. The idea bank should generate possibilities, not become another layer of required design work.
 
-## Existing project touchstones (not prototypes to imitate)
+## Applying the lenses in independent campaigns
 
-- [Woodpeckers Are the Best](songs/woodpeckers-are-the-best.md): pure delight, heightened observation, and mock-serious enthusiasm without a lesson.
-- [Dishes Come Back](songs/dishes-come-back.md): repetitive household comedy and pointed observation without requiring a sentimental payoff.
-- [Five More Minutes](songs/five-more-minutes.md): a repeated phrase that gathers a second emotional meaning over time.
-- [Between the Raindrops](songs/between-the-raindrops.md): purposeful symbolic layering about affection and chosen commitment.
+A household comedy, an instrumental soundscape, a protest song, a jazz study and an abstract improvisation can all use the same meaning-architecture vocabulary without adopting the same audience, narrative shape or genre. These are examples, not evaluation gates.
 
-These demonstrate variety already present in the project. Future songs need not occupy any of these same lanes.
+A campaign may separately preserve private creative examples and completed works. The public framework deliberately does not require access to any individual's original lyrics, dossiers or personal history.
