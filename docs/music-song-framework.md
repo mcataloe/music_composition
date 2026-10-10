@@ -134,6 +134,8 @@ This framework owns the reusable rules for sourcing, evaluating, scoring, develo
 
 ## 4. Creative Design Dimensions — Discovery Map
 
+Discovery question order and recommendation presentation are governed by [Project Directions](project-directions.md); the dimensions below supply creative possibilities, not a separate questioning protocol.
+
 The framework should eventually allow a song to be deliberately designed across the following dimensions.
 
 ### A. Concept / Topic
