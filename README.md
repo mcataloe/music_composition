@@ -38,4 +38,4 @@ The original source history contained personal song work before repository separ
 
 ## Project status
 
-This repository's framework generalization was developed as part of an approved split from a private `music_campaign`. Follow the [open pull request](https://github.com/mcataloe/music_composition/pull/1) for staged changes until it is merged. Do not treat an untagged draft as a stable release.
+The framework was separated from the private `music_campaign`. For the migration and release audit, see [Separation QA](docs/qa-separation-20261010.md). **A tagged framework release has not yet been created**; campaigns can pin an immutable validated commit while a future release/tagging process is arranged.
