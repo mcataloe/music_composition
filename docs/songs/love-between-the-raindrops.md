@@ -2,7 +2,7 @@
 
 ## Status
 
-**Stage:** Active discovery. Round 1 decisions established; Round 2 pending. No lyrics, final title, or generation package approved.
+**Stage:** Active discovery. Rounds 1 and 2 recorded; Round 3 pending. No lyrics, final title, or generation package approved.
 
 ## Governing framework
 
@@ -25,6 +25,21 @@ A parent/couple-centered love song about affection maintained inside busy ordina
 3. **Visible difficulty — B:** Let genuine irritation, misunderstandings, disappointment, and imperfect reconciliation appear; the relationship should not look frictionless.
 4. **Raindrop metaphor — C:** Start from actual rain, then gradually reveal the broader meaning of affection in small intervals amid life's difficulties. This is an intended approach, not permission to force every scene into weather imagery.
 5. **Musical world — D:** Keep genre open until the emotional arc is established rather than lock acoustic, soul, soft-rock, or other production choices prematurely.
+
+
+### Round 2 (2026-10-09)
+
+- Show loving commitment through actions; do not explicitly explain the choice-versus-emotion theme.
+- Keep the wedding-band inscription as private creative inspiration rather than a required lyric.
+- Include several recognizable disagreements and genuine difficult periods between partners, not merely busy-day annoyances.
+- Some conflicts are repaired, some negotiated, and some persist. The partners may develop respectful, workable accommodations without pretending the underlying differences disappeared.
+- End on an understated affectionate gesture, possibly a little imperfect or humorous, without insisting on complete reconciliation.
+- Preserve the ordinary-day narrative anchor while allowing glimpses of a longer shared history and serious storms.
+- Keep mutual respect and boundaries clear; enduring commitment is not a requirement to accept mistreatment.
+
+### Round 3 pending
+
+Select how rain and storms evolve as images, what conflict scenes to foreground, and the song's musical character. Genre remains open by prior decision.
 
 ### Established creative boundaries
 
