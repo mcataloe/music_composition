@@ -55,6 +55,8 @@ At the start:
 
 The round estimate is guidance, not a quota. End early when the Materiality Gate closes. If answers materially expand the domain, revise the estimate.
 
+Between rounds, use the user's answers to eliminate questions that no longer matter.
+
 #### Recommendation-after-options presentation
 
 For each material Discovery question that presents alternatives, preserve the songwriter's independent first impression:
@@ -64,8 +66,6 @@ For each material Discovery question that presents alternatives, preserve the so
 3. **After the recommendation**, invite the songwriter's decision. Keep the answer initially unselected in interactive controls; do not automatically select the recommended choice. Allow another choice, a combination, or a freeform answer when materially appropriate.
 
 The purpose is to let the songwriter form an instinct, contrast it with an argued recommendation, and make an informed choice. Do not replace the songwriter's decision with the assistant's default. Apply this order independently to each material question and preserve the existing Materiality Gate and five-questions-per-round ceiling.
-
-Between rounds, use the user's answers to eliminate questions that no longer matter.
 
 ### Materiality Gate
 
