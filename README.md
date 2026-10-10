@@ -33,6 +33,7 @@ Child-specific parenting, developmental, household, or biographical material bel
 - `docs/songs/woodpeckers-are-the-best.md` — dossier for **Woodpeckers Are the Best**.
 - `docs/songs/the-long-way-home.md` — dossier for **The Long Way Home**.
 - `docs/songs/between-the-raindrops.md` — discovery and Full Song Brief for **Between the Raindrops**.
+- `docs/songs/before-the-first-note.md` — special-purpose **Before the First Note** Suno application song (outside the family-song catalog).
 
 ## Domain boundary
 
