@@ -43,7 +43,7 @@ This is the *approved target model*, not a claim that the present repository con
 - Upgrades are deliberate, reviewed, and tested against the campaign's active creative profile, song briefs and QA requirements.
 - Framework upgrades do not overwrite campaign-owned decisions or retrospectively rewrite song dossiers.
 - Until the first reviewed release exists, do not invent a `v1.0.0` tag or claim compatibility with an unreleased version.
-- Current explicit songwriter instructions take precedence; approved campaign configuration selects domain-specific constraints; framework rules provide reusable defaults and governing protocol. Surface conflicts rather than silently applying incompatible rules. Changes to the protocol itself require a documented, approved override and synchronization QA under [Project Directions](project-directions.md).
+- For source-of-truth authority, conflicts, campaign-specific constraints and protocol overrides, apply the single governing rule in [Project Directions](project-directions.md). This document establishes ownership, not a second precedence hierarchy.
 
 ## Portability acceptance tests
 
