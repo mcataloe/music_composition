@@ -48,15 +48,13 @@ Select how rain and storms evolve as images, what conflict scenes to foreground,
 - Preserve mutuality and dignity; love-as-choice must not become a demand for one person to tolerate harmful behavior.
 - Avoid turning the officiant's observation into a didactic thesis or substituting abstractions for concrete behavior.
 - A repair does not have to erase the original disagreement.
-- The final hook, the role of the inscription in the lyrics, the intensity of personalization, the ending, and the musical architecture remain open.
+- The metaphor, musical character and final hook remain open. The understated ending and private inscription use are established.
 
 ### Next material decisions
 
-- How explicitly should the song say “choice” rather than enact it in details?
-- Should the personal wedding-band inscription be used verbatim, transformed, or reserved as private inspiration?
-- Which scale of real-world pressure and friction should anchor the day's events?
-- How resolved should the closing scene feel?
-- After these decisions, select musical architecture based on the resulting emotional trajectory.
+- Determine the rain/storm metaphor's evolution.
+- Determine how to show serious and persistent disagreements concretely.
+- Determine the musical character from the emotional arc.
 
 ## QA / scope note
 
