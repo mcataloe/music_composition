@@ -433,7 +433,7 @@ The artistic brief owns the **intent**; a generator/DAW/performance **adapter** 
 ## 5. Evaluation model
 
 Distinguish:
-- **Hard gates:** campaign-selected or unavoidable technical/legal constraints, which cannot be overridden merely by a high score. A chosen children's campaign may have developmental and content hard gates; an unrelated instrumental campaign must not inherit them.
+- **Hard gates:** campaign-selected or unavoidable technical/legal constraints, plus the framework's own process gate for [initial package completeness](#initial-package-completeness--hard-gate), which cannot be overridden merely by a high score. A chosen children's campaign may have developmental and content hard gates; an unrelated instrumental campaign must not inherit them.
 - **Soft scores:** audience fit, musical potential, originality, coherence, experiential quality, performer feasibility, replay value, emotional interest, portfolio contribution and other dimensions **only when they matter to this work**.
 - **Creative exceptions:** intentional convention-breaking is welcome if it serves the piece and does not violate a genuine hard gate. Novelty is not enough on its own.
 
@@ -446,13 +446,24 @@ Use evaluation to prioritize exploration, **not to automate musical taste**. Do 
 3. Resolve the campaign-selected audience and applicable hard constraints.
 4. Prepare the minimum useful Lite or Full Brief.
 5. Draft music, lyrics, score, instrumental texture or production plan as relevant.
-6. Convert the approved brief to a **tool-specific execution package only if a tool requires it**, using an optional adapter such as [Suno](adapters/suno.md).
+6. Convert the approved brief to a **tool-specific execution package only if a tool requires it**, using an optional adapter such as [Suno](adapters/suno.md). When lyrics are drafted for the first time, this step happens **in the same delivery as step 5**, not later (see the gate below).
 7. Run correctness QA and creative QA on the entire applicable package.
 8. Perform, generate, record or test and **listen to the actual result** when listening is possible.
 9. Revise material defects and check the complete package after material changes.
 10. Save provenance, revisions, review findings and learnings with the work in the owning campaign. Promote broadly transferable discoveries to this framework only after generalization.
 
+### Initial package completeness — hard gate
+
+When lyrics are **first drafted** for a work, the same delivery must include everything needed to execute and present the work:
+
+- the **execution configuration** for the selected tool, plus any companion fields that tool's adapter requires (for Suno: the style/production instructions and the control configuration);
+- a **publication caption**, which is listener-facing descriptive copy as defined by the selected adapter, or 500 characters or fewer when no adapter defines it.
+
+If no tool has been selected yet, deliver the caption and state that the configuration waits on tool selection. A first lyric delivery that is missing any required part is a `Must fix` finding: it cannot receive **PASS** or **CONDITIONAL PASS**, whatever the lyric quality. Later revisions may return only the parts they change, as long as the work's full current package exists in its record.
+
 ### Correctness QA — hard checks
+
+- Initial package completeness (gate above) on any first lyric delivery;
 - Fidelity to the approved concept/brief;
 - **Only** actual campaign-selected audience/content/access hard gates;
 - No contradiction across lyrics, score, performance instructions, controls or other applicable channels;
