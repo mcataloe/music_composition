@@ -13,6 +13,8 @@ When a campaign chooses Suno and **lyrics are first drafted for that song**, or 
 3. **Suno control configuration** in a table, with a concise rationale and any settings not available for the selected generation mode.
 4. **Song caption** in its own copy/edit block, drafted alongside the initial lyrics. Write brief, listener-facing publication text (for example, a Suno song description) that captures the song's invitation, tone or premise without merely restating the lyrics, revealing an intended surprise, inventing provenance, or claiming an unverified outcome. **Limit the caption to 500 characters, including spaces and punctuation** (count the caption text, not the surrounding copy-block UI); use a stricter limit if the publication destination requires it. This is **publication copy**, not a generation prompt or an extra Suno generation control.
 
+For a first lyric draft, these four parts make up the complete package required by the framework's [initial package completeness hard gate](../music-song-framework.md#initial-package-completeness--hard-gate). A first draft that omits any of them fails that gate.
+
 For an instrumental Suno generation, adapt the format rather than inventing lyrics or a singer. In later revision cycles, return only the parts necessary to implement the request unless the campaign asks for a complete package.
 
 ## Tool control inventory (Suno v6-era source workflow)
