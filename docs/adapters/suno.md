@@ -46,7 +46,17 @@ Some controls are conditional and tool versions change. Treat this list as a dat
 
 For an initial baseline with an intentionally engineered style field, the source campaign has often used **Variety: Off**, relatively strong Style Influence and restrained Weirdness, seeking faithful initial generation. These are **starting hypotheses, not universal defaults**. If exploration is the objective, higher variety or other settings may be more suitable; change a small number of meaningful parameters per test to attribute effects.
 
-Run the entire package, **including the caption's length, faithfulness, audience fit and spoiler sensitivity**, through the shared framework's pre-generation QA, then reserve audio-dependent findings for listening review. Revisit the caption after revisions if the song's actual meaning or presentation materially changes. Store actual chosen controls, final lyrics, style instructions, publication caption, and what happened in the **campaign-owned song dossier**, not this general adapter.
+Run the entire package, **including the caption's length, faithfulness, audience fit and spoiler sensitivity**, through the shared framework's pre-generation QA, then reserve audio-dependent findings for listening review, starting with the assistant listening QA pass below when its tools are available. Revisit the caption after revisions if the song's actual meaning or presentation materially changes. Store actual chosen controls, final lyrics, style instructions, publication caption, and what happened in the **campaign-owned song dossier**, not this general adapter.
+
+## Assistant listening QA tools
+
+When the Suno MCP connector is available, these tools satisfy the framework's [assistant listening QA](../music-song-framework.md#assistant-listening-qa). They were observed on 2026-11-21, are free of charge, and allow up to five pending questions at once:
+
+- **`audio-listen`** (read with `audio-listen-wait`) answers a free-text question about a finished clip. Ask about the specific checks and request a closing JSON block with named fields so takes can be compared side by side.
+- **`audio-analysis`** returns measured tempo, meter, key, sections and descriptive tags, which is useful for confirming structure and modulations.
+- **`audio-lyrics-alignment`** returns word timings, which is useful for checking intelligibility of load-bearing lines and words that were added or dropped.
+
+Run the pass on every take of a generation before presenting the takes. The answers never name real artists and quote at most two lyric lines.
 
 ## License and separation
 
