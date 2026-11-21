@@ -492,6 +492,12 @@ Use the **PASS / CONDITIONAL PASS / FAIL / BLOCKED** status definitions exclusiv
 ### Post-execution learning
 Listen or otherwise inspect the artifact itself, not merely its brief. Note what succeeded, what fell short and what surprised. Maintain the review and listening history in the owning campaign's song dossier. If a pattern is transferable across unrelated projects, propose it as a core improvement; otherwise it remains campaign-specific.
 
+### Assistant listening QA
+
+When the session has a tool that can listen to or analyze a render (the selected adapter names it), the assistant must run a structured listening pass on **every take before presenting it**, and report findings per take alongside the links. Ask about the brief's audio-dependent checks, which are the open `Test in execution/listening` findings plus structure, phrasing density, intended effects (spoken lines, modulations, endings), added or missing words and sections, delivery register, intelligibility of load-bearing lines, and mix artifacts. Record the results in the campaign dossier.
+
+The pass is evidence from a model, not ground truth. Treat its findings as `Should fix` or `Test in execution/listening` until the songwriter confirms them. It supplements the songwriter's own listening and never replaces it, and it cannot judge whether the work achieves its intended effect on a real audience. If no such tool is available, say that the takes have not been listened to by the assistant.
+
 ## 7. Optional extensions and ownership
 
 - [Suno Adapter](adapters/suno.md) specifies *optional* generator fields, limits, prompt construction and UI versions; it does not define creative goals.
