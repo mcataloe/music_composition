@@ -8,7 +8,7 @@ The canonical creative and music-QA rules are in [Music & Song Framework](../mus
 
 When a campaign chooses Suno and **lyrics are first drafted for that song**, or an initial **lyric-based** generation package is requested, present:
 
-1. **Lyrics** in a separate copy/edit block with clear bracketed section markers where supported.
+1. **Lyrics** (generation lyrics) in a separate copy/edit block with clear bracketed section markers where supported. These are generator input; see [display lyrics](#display-lyrics-and-captions-on-suno) for what listeners see.
 2. **Style and production instructions** in a separate copy/edit block. Keep within the currently documented/applicable style-field size; the source project's observed ceiling is **under 1,000 characters**. Reverify after interface changes and include a character count when practical.
 3. **Suno control configuration** in a table, with a concise rationale and any settings not available for the selected generation mode.
 4. **Song caption** in its own copy/edit block, drafted alongside the initial lyrics. Write brief, listener-facing publication text (for example, a Suno song description) that captures the song's invitation, tone or premise without merely restating the lyrics, revealing an intended surprise, inventing provenance, or claiming an unverified outcome. **Limit the caption to 500 characters, including spaces and punctuation** (count the caption text, not the surrounding copy-block UI); use a stricter limit if the publication destination requires it. This is **publication copy**, not a generation prompt or an extra Suno generation control.
@@ -57,6 +57,19 @@ When the Suno MCP connector is available, these tools satisfy the framework's [a
 - **`audio-lyrics-alignment`** returns word timings, which is useful for checking intelligibility of load-bearing lines and words that were added or dropped.
 
 Run the pass on every take of a generation before presenting the takes. The answers never name real artists and quote at most two lyric lines.
+
+## Display lyrics and captions on Suno
+
+**Generation lyrics and display lyrics are separate.** Generation lyrics keep bracketed tags (section labels and performance cues such as `[Spoken]` or `[Guitar Solo]`) because Suno uses them. Display lyrics are what listeners read, so they look like a traditional lyric sheet:
+
+- remove every bracketed tag, along with any section that contains no words (for example, a solo or a key change);
+- keep one blank line between stanzas;
+- write repeated sections out in full;
+- keep quoted speech and parenthetical backing vocals as written.
+
+Present display lyrics whenever lyrics are shown as a lyric sheet rather than as generator input. Record both versions in the campaign dossier.
+
+**Posting:** the connector's **`audio-edit`** tool sets a song's caption (its suno.com description, 500 characters or fewer) and its displayed lyrics without changing the audio or its visibility. Suno re-aligns the new words to the recording automatically. When a take is selected, post its approved caption and display lyrics yourself rather than asking the songwriter to paste them. Publishing (visibility through `audio-settings`) is a separate step and needs the songwriter's go-ahead. Verified on 2026-11-21.
 
 ## License and separation
 
